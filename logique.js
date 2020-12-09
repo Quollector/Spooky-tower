@@ -53,9 +53,9 @@ function msg_int(x){
     }
     var presenceTotal = presenceNord + " " + presenceSud + " " + presenceEst + " " + presenceOuest;
     var disponibleToggle = !presenceNord + " " + !presenceSud + " " + !presenceEst + " " + !presenceOuest;
-
+	
     if(inlet == 4){
-        if(x == 0){
+        /*if(x == 0){
             faceNord = 1;
             emplacementActuelle = "faceNord";
         }else{
@@ -114,16 +114,16 @@ function msg_int(x){
         }
         else{
             choixOuest = 1;
-        }
+        }*/
 
-        outlet(0, choixNord, choixSud, choixEst, choixOuest);
+        outlet(0, !presenceNord, !presenceSud, !presenceEst, !presenceOuest);
 
        // sendMessage();
     }
 
     
 
-    function sendMessage(){
+    /*function sendMessage(){
         post("------------------------------------------------------------------ \n");
         post("L'emplacement actuelle est: " + emplacementActuelle + "\n");
         post("Avec l'emplacement actuelle, je peux donc aller à: " + disponibleRadio + "\n");
@@ -152,6 +152,5 @@ function msg_int(x){
         }
         post(possibiliteesFinales + "\n");
         post("------------------------------------------------------------------ \n");
-    }
+    }*/
 }
-
