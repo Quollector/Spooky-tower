@@ -18,9 +18,9 @@ Spooky Tower est une expérience interactive où les utilisateurs s'approche d'u
   - [x] Assembler vidéo + logique (avec Antoine)
   
 ### - Quentin
-  - [ ] Animation
-    - [ ] Animation de montée
-    - [ ] Transitions
+  - [X] Animation
+    - [X] Animation de montée
+    - [X] Transitions
   
   - [x] Montage Animation + Son (avec Félix)
   
