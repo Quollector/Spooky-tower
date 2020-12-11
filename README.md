@@ -4,36 +4,36 @@ Spooky Tower est une expérience interactive où les utilisateurs s'approche d'u
 
 ## Prototype 03
 ### - Antoine
-  - [ ] Modifier Layout Vidéo
-    - [ ] 1 videoplane qui se déplace dans un world blanc
-    - [ ] Intégration d'une grille en format PNG avec blend_enable (Repère)
+  - [x] Modifier Layout Vidéo
+    - [x] 1 videoplane qui se déplace dans un world blanc
+    - [x] Intégration d'une grille en format PNG avec blend_enable (Repère)
   
-  - [ ] Assembler vidéo + logique (avec William)
+  - [x] Assembler vidéo + logique (avec William)
   
 ### - William
-  - [ ] Finir Logique
-    - [ ] Ajuster les conditions
-    - [ ] Créer données utiles au déplacement
+  - [x] Finir Logique
+    - [x] Ajuster les conditions
+    - [x] Créer données utiles au déplacement
     
-  - [ ] Assembler vidéo + logique (avec Antoine)
+  - [x] Assembler vidéo + logique (avec Antoine)
   
 ### - Quentin
-  - [ ] Animation
-    - [ ] Animation de montée
-    - [ ] Transitions
+  - [X] Animation
+    - [X] Animation de montée
+    - [X] Transitions
   
-  - [ ] Montage Animation + Son (avec Félix)
+  - [x] Montage Animation + Son (avec Félix)
   
 ### - Félix
-  - [ ] Faire la musique d'ambiance
+  - [x] Faire la musique d'ambiance
     - [x] Composer
     - [x] Enregistrer
-    - [ ] Mixer
+    - [x] Mixer
     
   _La musique doit faire une boucle_
   
-  - [ ] Créer les sons du personnage
+  - [x] Créer les sons du personnage
   
   _Aller chercher un Pitch shifter pour le personnage_
   
-  - [ ] Montage Animation + Son (avec Quentin)
+  - [x] Montage Animation + Son (avec Quentin)
