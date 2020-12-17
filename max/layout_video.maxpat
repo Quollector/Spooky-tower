@@ -3,14 +3,14 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 0,
+			"minor" : 1,
 			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 77.0, 1852.0, 929.0 ],
+		"rect" : [ 35.0, 85.0, 1056.0, 913.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -105,7 +105,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 967.5, 1614.0, 29.5, 22.0 ],
-					"text" : "3"
+					"text" : "1"
 				}
 
 			}
@@ -128,7 +128,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1016.0, 1566.0, 141.0, 22.0 ],
+					"patching_rect" : [ 1043.5, 1556.0, 141.0, 22.0 ],
 					"text" : "receive etatDeplacement"
 				}
 
@@ -222,7 +222,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 512.75, 1745.0, 50.0, 22.0 ],
-					"text" : "2 2 3 3"
+					"text" : "2 2 1 3"
 				}
 
 			}
@@ -353,7 +353,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 512.75, 1419.5, 50.0, 22.0 ],
-					"text" : "2 2"
+					"text" : "2 1"
 				}
 
 			}
@@ -405,7 +405,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 218.561248779296875, 1465.5, 18.0, 66.0 ],
 					"size" : 4,
-					"value" : 3
+					"value" : 1
 				}
 
 			}
@@ -416,7 +416,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 245.0, 1481.5, 152.0, 33.0 ],
+					"patching_rect" : [ 245.0, 1481.5, 152.0, 34.0 ],
 					"text" : "Emplacement au début de l'animation"
 				}
 
@@ -428,7 +428,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 92.771774291992188, 1352.0, 124.0, 33.0 ],
+					"patching_rect" : [ 92.771774291992188, 1352.0, 124.0, 34.0 ],
 					"text" : "Emplacement à la fin de l'animation"
 				}
 
@@ -678,7 +678,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 789.0, 1811.0, 50.0, 22.0 ],
-					"text" : "4"
+					"text" : "0"
 				}
 
 			}
@@ -690,7 +690,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1027.25, 1824.0, 50.0, 22.0 ],
-					"text" : "2"
+					"text" : "0"
 				}
 
 			}
@@ -996,7 +996,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1188.25, 1607.0, 150.0, 47.0 ],
+					"patching_rect" : [ 1188.25, 1607.0, 150.0, 48.0 ],
 					"text" : "Pris pour acquis que le 1 est la seule option, en réalité possible de 1 ou 2"
 				}
 
@@ -1089,7 +1089,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1142.0, 1417.0, 50.0, 22.0 ],
-					"text" : "1 4"
+					"text" : "1 2"
 				}
 
 			}
@@ -2989,28 +2989,28 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "grille_spooky_v2.png",
-				"bootpath" : "~/OneDrive/Documents/GitHub/Spooky-tower/images",
+				"bootpath" : "H:/session_05/conception/Spooky-tower/images",
 				"patcherrelativepath" : "../images",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "test_personnage.png",
-				"bootpath" : "~/OneDrive/Documents/GitHub/Spooky-tower/images",
+				"bootpath" : "H:/session_05/conception/Spooky-tower/images",
 				"patcherrelativepath" : "../images",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "logique.maxpat",
-				"bootpath" : "~/OneDrive/Documents/GitHub/Spooky-tower/max",
+				"bootpath" : "H:/session_05/conception/Spooky-tower/max",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "logique.js",
-				"bootpath" : "~/OneDrive/Documents/GitHub/Spooky-tower/max",
+				"bootpath" : "H:/session_05/conception/Spooky-tower/max",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
