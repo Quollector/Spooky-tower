@@ -32,7 +32,7 @@ La programmation était surtout réalisée sur Max 8 en même temps que la logiq
 ## Ajustement du scénario
 Le scénario en tant que tel n'a pas changé énormément et reste très proche de l'idée de départ, ce qui a le plus changé est le côté technique. Par exemple, dans notre première version, nous avions cinq projecteurs, quatre Kinects, mais après recommandations nous avons découvert qu'une seule Kinect qui détecterait les quatre zones en même temps était possible et que seulement deux projecteurs pourraient être nécessaires pour l'entierté du projet. Nous avons effectué quelques changements au niveau du déplacement du personnage grâce au layout vidéo et aux dix possibilités qui nous enlève la charge de faire jouer deux animation en même temps pour passer de la face ouest à nord ou du top à une face de bas.
 
-![scenarimage](images/schéma.JPG)
+![scenarimage](images/grille_spooky_v2_directions.png)
 
 ## Échéancier de production
 Il nous reste encore beaucoup à prévoir pour l'installation à la prochaine session, mais cette session nous avons respecté notre échéancier de production la plupart du temps. Il n'y a que pour le prototype 03 que nous n'avons pas été capable d'au moins intégrer les animations à la logique, et ce sera la première étape à faire dans la continuité du projet. Comme dit plus haut, l'échéancier était fait selon nos sépérations du travail, mais lorsque que la première animation était terminé, le son qui allait avec devait aussi l'être. 
