@@ -1,4 +1,4 @@
-# Journal de "Étudiant 4"
+# Journal de William Racine
 
 ## Table des matières
 - [Semaine 0 (25 au 29 janvier)](#Semaine-0-(25-au-29-janvier))
