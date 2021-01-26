@@ -10,16 +10,19 @@
 - [Semaine 6 (13 au 19 mars)](#Semaine-6-(13-au-19-mars))
 
 ---
+### Résumé des tâches global à faire
+-Comité Technique et coordination technique (suivi du devis technique);
+-Création des paysages sonores sonores;
+-Programmation du module Max d'effet et de contrôle audio;
+-Installation de l'équipement dans l'espace physique.
+
 ## Semaine 0 (25 au 29 janvier)
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
-- Praesent viverra tristique malesuada. 
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
+-
+-
+-
+
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/motionCapture.jpg)
