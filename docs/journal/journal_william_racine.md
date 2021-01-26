@@ -13,25 +13,21 @@
 ## Semaine 0 (25 au 29 janvier)
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
-- Praesent viverra tristique malesuada. 
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
+- Ajouter le modèle de projet au repository déjà existant.
+- Ajustement de la hiérarchie du repo.
+- Création des milestones.
+- Création de la gestion du projet dans l'onglet Projects.
+- Modification des noms des journaux.
+- Maj du .gitignore
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![résumé des réalisation effectuées](medias/realisations/william/realisation_w0.png)
+
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
-- [x] Peu
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
