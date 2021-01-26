@@ -28,12 +28,12 @@
 
 # Intention ou concept
 ## Synopsis
-Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
+Un personage est présent sur une face d'une tour à cinq faces. Il est effrayé lorsque quelqu'un est devant lui et change de face à la course jusqu'à devoir se réfugier sur le dessus. 
 
-Le public est appelé à découvrir le mystère entourant cette difficile séparation.
+Le public est invité à se positionner devant chacune des faces pour faire fuir le personnage vers le dessus de la tour.
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer la grande fragilité des relations sociales et amoureuses qui traverse nos vies.
+Par ce projet, nous souhaitons mettre l'accent sur l'anxiété et le stress de certains individus face aux foules. Il s'agit d'un regard sur la face opposé du confinement où beaucoup ne se sentent pas à l'aise d'être seuls chez eux. Exactement comme certains ne se sentent pas à l'aise quand ils sont à l'extérieur avec d'autres gens.
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
