@@ -1,13 +1,13 @@
 # Journal de "Antoine Allard"
 
 ## Table des matières
-- [Semaine 0 (25 au 29 janvier)](#Semaine-0-(25-au-29-janvier))
-- [Semaine 1 (30 janvier au 5 février)](#Semaine-1-(30-janvier-au-5-février))
-- [Semaine 2 (6 au 12 février)](#Semaine-2-(6-au-12-février))
-- [Semaine 3 (13 au 19 février)](#Semaine-3-(13-au-19-février))
-- [Semaine 4 (20 au 26 février)](#Semaine-4-(20-au-26-février))
-- [Semaine 5 (6 au 12 mars)](#Semaine-5-(6-au-12-mars))
-- [Semaine 6 (13 au 19 mars)](#Semaine-6-(13-au-19-mars))
+- [Semaine 0 (25 au 29 janvier)](##Semaine-0-(25-au-29-janvier))
+- [Semaine 1 (30 janvier au 5 février)](##Semaine-1-(30-janvier-au-5-février))
+- [Semaine 2 (6 au 12 février)](##Semaine-2-(6-au-12-février))
+- [Semaine 3 (13 au 19 février)](##Semaine-3-(13-au-19-février))
+- [Semaine 4 (20 au 26 février)](##Semaine-4-(20-au-26-février))
+- [Semaine 5 (6 au 12 mars)](##Semaine-5-(6-au-12-mars))
+- [Semaine 6 (13 au 19 mars)](##Semaine-6-(13-au-19-mars))
 
 ---
 ## Semaine 0 (25 au 29 janvier)
