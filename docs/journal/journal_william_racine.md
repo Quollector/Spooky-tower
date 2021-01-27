@@ -18,7 +18,10 @@
 - Création des milestones.
 - Création de la gestion du projet dans l'onglet Projects.
 - Modification des noms des journaux.
-- Maj du .gitignore
+- Maj du .gitignore.
+- Compléter la semaine 0 de mon journal.
+- Accorder les rôles de chaque personne de mon équipe.
+- Avancer la préproduction
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![résumé des réalisation effectuées](medias/realisations/william/realisation_w0.png)
@@ -31,26 +34,27 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+Notre objectif de la semaine était de déterminer les rôles de chacun ainsi que de compléter la semaine 0 de notre journal. En plus de faire les objectifs demandés, j'ai modifier le repository pour qu'il répondre aux exigences du cours.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+- Essayer de trouver le plus d'issues réalisables pour les prochain(e)s jours/semaines
+- Déterminer un budget
 
 ---
 ## Semaine 1 (30 janvier au 5 février)
