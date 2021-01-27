@@ -11,10 +11,12 @@
 
 ---
 ### Résumé des tâches global à faire
--Comité Technique et coordination technique (suivi du devis technique);
--Création des paysages sonores sonores;
--Programmation du module Max d'effet et de contrôle audio;
--Installation de l'équipement dans l'espace physique.
+Étudiant B
+
+-Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
+-Création des textes poétiques;
+-Création des vidéos d'animation 2D;
+-Programmation du module Unity d'effets visuels et intégration dans Max.
 
 ## Semaine 0 (25 au 29 janvier)
 
