@@ -28,7 +28,7 @@
 
 # Intention ou concept
 ## Synopsis
-Un personage est présent sur une face d'une tour à cinq faces. Il est effrayé lorsque quelqu'un est devant lui et change de face à la course jusqu'à devoir se réfugier sur le dessus. 
+Un personnage est présent sur une face d'une tour à cinq faces. Il est effrayé lorsque quelqu'un est devant lui et change de face à la course jusqu'à devoir se réfugier sur le dessus. 
 
 Le public est invité à se positionner devant chacune des faces pour faire fuir le personnage vers le dessus de la tour.
 
@@ -201,6 +201,8 @@ https://github.com/Quollector/Spooky-tower/projects/2?card_filter_query=assignee
 
 ### **Félix Jasmin**
 - **Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);**
+- Création des paysages sonores sonores;
+- Programmation du module Max d'effet et de contrôle audio;
 
 
 Liste des tâches dans Git Hub:  
@@ -208,14 +210,14 @@ https://github.com/Quollector/Spooky-tower/issues/assigned/felixjasmin
 https://github.com/Quollector/Spooky-tower/projects/2?card_filter_query=assignee%3Afelixjasmin
 
 **Tâches pas encore attribuées**  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
+https://github.com/Quollector/Spooky-tower/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
 
 ## Moments des rencontres d'équipe
 Quotidien
-- **Chaque jour 9h00 (30min max)**: Rencontre statutaire d'équipe pour régler les urgences
+- **Chaque jour 13h00 (30min max)**: Rencontre statutaire d'équipe pour régler les urgences
 
 Hebdomadaire
-- **Mardi "x"h (environ 1h)** : Rencontre d'équipe avec professeur
+- **Mardi 10h (environ 1h)** : Rencontre d'équipe avec professeur
 - **Vendredi 9h50 (environ 2h)** : Rencontre générale de classe
 - **Vendredi 13h (environ 2h)** : Rencontre de mise à jour d'équipe (Journal Web, suivis, mise à jour de l'échéancier, partage des tâches et autres)
 
