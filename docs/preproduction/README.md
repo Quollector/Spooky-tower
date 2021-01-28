@@ -110,9 +110,13 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
     * [node-osc](https://github.com/MylesBorins/node-osc)
-* [Max 8](https://cycling74.com/products/max)   
-* [Unity 2019 lts](https://unity.com/)
+* [Max 8](https://cycling74.com/products/max)
 * [Open stage control](https://openstagecontrol.ammd.net/)
+* [Open Broadcaster Software](https://obsproject.com)
+* [After Effect](https://www.adobe.com/ca/products/aftereffects.html)
+* [Illustrator](https://www.adobe.com/ca/products/illustrator.html)
+* [Photoshop](https://www.adobe.com/ca/products/photoshop.html)
+* [Reaper](https://www.reaper.fm)
 
 ## Ressources humaines requises
 > Moments et fonctions où une intervention humaine externe à l'équipe est nécessaire et pourquoi. Formaté en liste ou en lien vers un tableur Excel.
