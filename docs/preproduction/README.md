@@ -67,7 +67,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/livestream_branchements.png)
+![exemple de schema](../draw.io/schema_spooky_tower.drawio)
 
 ### Plantation 
 
