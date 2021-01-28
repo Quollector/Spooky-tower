@@ -77,41 +77,30 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Divan Louis XIV
-    * Couleur rouge
-    * 12' x 4' x 3'
-* Cyclorama
+
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 8 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 8 sorties 
+    * 4 Haut-parleurs bluetooth DIVOOM AIRBEAT-10
+    * 2 Hauts-parleurs Genelec 8010 8"
 
 * Vidéo
-    * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
-    * 3 webcam logitech c920
+    * 2 Projecteur standard, ratio 1.5, 3500 lumens
+    * 1 Kinect V2 + adaptateur pc
 
 * Lumière
-    * 4 lumière LED RGBAW DMX
-    * 4 fils XLR 3 conducteurs de 20'
-    * Console DMX
-    * Interface DMX USB
+    * ?
 
 * Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 3 fiches et 3 conducteurs 
-    * 2 multiprise
+    * ?
 
 * Réseau
-    * 4 fils cat6a de 15"
-    * Switch poe 5 ports
+    * ?
 
 * Ordinateur
-    * 1 ordinateur portable 
+    * 1 Ordinateur portable PC avec Dragon Frame - Keypad Dragon Frame
     
 * Autre
     * Tout autre élément pertinant
