@@ -67,7 +67,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Schéma de branchement 
 
-![exemple de schema](../images/schéma.JPG)
+![exemple de schema](medias/schéma.JPG)
 
 ### Plantation 
 
