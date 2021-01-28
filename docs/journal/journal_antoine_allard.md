@@ -1,4 +1,4 @@
-# Journal de Antoine Allard - Coordination artistique
+# Journal de Antoine Allard - Coordination technique
 
 ## Table des matières
 - [Semaine 0 (25 au 29 janvier)](#Semaine-0-(25-au-29-janvier))
