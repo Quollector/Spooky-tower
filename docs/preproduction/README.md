@@ -174,8 +174,11 @@ https://github.com/Quollector/Spooky-tower/issues
 
 ### **William Racine**
 - **Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);**
+- **Comité Diffusion**
 - Création du module d'interprétation des données;
 - Programmation du module Max de contrôle vidéo.
+- Programmation de la logique du projet.
+- Installation de l'équipement dans l'espace physique
 
 Liste des tâches dans Git Hub:  
 https://github.com/Quollector/Spooky-tower/issues/assigned/Aermyx 
@@ -183,7 +186,16 @@ https://github.com/Quollector/Spooky-tower/projects/2?card_filter_query=assignee
 
 ### **Antoine Allard**
 - **Comité Technique et coordination technique (suivi du devis technique);**
+- Plan des équipements et câblage
+- Plan des connections entre les les différents équipement et la régie
+- Déterminer l'emplacement de la régie
 - Installation de l'équipement dans l'espace physique.
+- Déterminer les dimensions et les matériaux de la tour
+- Déterminer les équipements requis
+- Déterminer l'emplacement exact de l'expérience interactive
+- Déterminer l'emplacement exact de chaque équipement
+- Montage de la scène et test des positions de l'équipement
+- S'assurer que le câblage soit pratique et sécuritaire
 
 Liste des tâches dans Git Hub:  
 https://github.com/Quollector/Spooky-tower/issues/assigned/AntoAllard
@@ -194,6 +206,7 @@ https://github.com/Quollector/Spooky-tower/projects/2?card_filter_query=assignee
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
 - Programmation du module de captation des données;
 - Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
+- Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
 https://github.com/Quollector/Spooky-tower/issues/assigned/Quollector
@@ -203,7 +216,7 @@ https://github.com/Quollector/Spooky-tower/projects/2?card_filter_query=assignee
 - **Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);**
 - Création des paysages sonores sonores;
 - Programmation du module Max d'effet et de contrôle audio;
-
+- Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
 https://github.com/Quollector/Spooky-tower/issues/assigned/felixjasmin
