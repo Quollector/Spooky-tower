@@ -171,13 +171,7 @@ https://github.com/Quollector/Spooky-tower/projects/2?card_filter_query=assignee
 - **Comité Technique et coordination technique (suivi du devis technique);**
 - Plan des équipements et câblage
 - Plan des connections entre les les différents équipement et la régie
-- Déterminer l'emplacement de la régie
-- Déterminer les dimensions et les matériaux de la tour
-- Déterminer les équipements requis
-- Déterminer l'emplacement exact de l'expérience interactive
-- Déterminer l'emplacement exact de chaque équipement
 - Montage de la scène et test des positions de l'équipement
-- S'assurer que le câblage soit pratique et sécuritaire
 
 Liste des tâches dans Git Hub:  
 https://github.com/Quollector/Spooky-tower/issues/assigned/AntoAllard
@@ -185,7 +179,6 @@ https://github.com/Quollector/Spooky-tower/projects/2?card_filter_query=assignee
 
 ### **Quentin Lequenne**
 - **Comité Diffusion et coordination de la diffusion (mise en ligne du Site Web, organisation de la plateforme et de l'événement de diffusion);**
-- Installation et mise en place de la capture audiovidéo du projet en temps réel;
 - Programmation du module de captation des données;
 - Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
 
@@ -197,7 +190,6 @@ https://github.com/Quollector/Spooky-tower/projects/2?card_filter_query=assignee
 - **Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);**
 - Création des paysages sonores sonores;
 - Programmation du module Max d'effet et de contrôle audio;
-
 
 Liste des tâches dans Git Hub:  
 https://github.com/Quollector/Spooky-tower/issues/assigned/felixjasmin
