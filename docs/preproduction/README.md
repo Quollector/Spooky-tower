@@ -48,30 +48,23 @@ Par ce projet, nous souhaitons mettre l'accent sur l'anxiété et le stress de c
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 15 icônes de navigation (pour les utilisateur-trices)
-- 8 montages d'image
-- 3 paysages sonores
-- 5 vidéos d'animation 2D
-- 3 textes poétiques
-- 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
-- ...
-
-Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
+[Inventaire du contenu à intégrer](https://docs.google.com/spreadsheets/d/1OvP3xgN0axjtxIeO2JyGzZx_uvsgmqFpQghbXrXnPnE/edit?usp=sharing})
 
 ## Univers artistique des éléments
 Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
 
 # Planification technique (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio.  
+> Insérer plans, documents et schémas pertinents dans cette section.  
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/livestream_branchements.png)
+![exemple de schema](medias/schéma.JPG)
+![exemple de schema](medias/schéma02.JPG)
 
 ### Plantation 
 
-![exemple de plantation](medias/o3_plantation.svg)
+![exemple de plantation](medias/plantation.jpg)
 
 ## Matériel de scénographie requis
 
@@ -84,14 +77,14 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Audio
     * 4 Haut-parleurs bluetooth DIVOOM AIRBEAT-10
-    * 2 Hauts-parleurs Genelec 8010 8"
+    * 4 Hauts-parleurs Genelec 8010 8"
 
 * Vidéo
     * 2 Projecteur standard, ratio 1.5, 3500 lumens
     * 1 Kinect V2 + adaptateur pc
 
 * Lumière
-    * ?
+    * 4 Chauvet slimPAR Pro USB
 
 * Électricité
     * ?
@@ -110,9 +103,13 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
     * [node-osc](https://github.com/MylesBorins/node-osc)
-* [Max 8](https://cycling74.com/products/max)   
-* [Unity 2019 lts](https://unity.com/)
+* [Max 8](https://cycling74.com/products/max)
 * [Open stage control](https://openstagecontrol.ammd.net/)
+* [Open Broadcaster Software](https://obsproject.com)
+* [After Effect](https://www.adobe.com/ca/products/aftereffects.html)
+* [Illustrator](https://www.adobe.com/ca/products/illustrator.html)
+* [Photoshop](https://www.adobe.com/ca/products/photoshop.html)
+* [Reaper](https://www.reaper.fm)
 
 ## Ressources humaines requises
 > Moments et fonctions où une intervention humaine externe à l'équipe est nécessaire et pourquoi. Formaté en liste ou en lien vers un tableur Excel.
@@ -177,14 +174,7 @@ https://github.com/Quollector/Spooky-tower/projects/2?card_filter_query=assignee
 - **Comité Technique et coordination technique (suivi du devis technique);**
 - Plan des équipements et câblage
 - Plan des connections entre les les différents équipement et la régie
-- Déterminer l'emplacement de la régie
-- Installation de l'équipement dans l'espace physique.
-- Déterminer les dimensions et les matériaux de la tour
-- Déterminer les équipements requis
-- Déterminer l'emplacement exact de l'expérience interactive
-- Déterminer l'emplacement exact de chaque équipement
 - Montage de la scène et test des positions de l'équipement
-- S'assurer que le câblage soit pratique et sécuritaire
 
 Liste des tâches dans Git Hub:  
 https://github.com/Quollector/Spooky-tower/issues/assigned/AntoAllard
@@ -192,7 +182,6 @@ https://github.com/Quollector/Spooky-tower/projects/2?card_filter_query=assignee
 
 ### **Quentin Lequenne**
 - **Comité Diffusion et coordination de la diffusion (mise en ligne du Site Web, organisation de la plateforme et de l'événement de diffusion);**
-- Installation et mise en place de la capture audiovidéo du projet en temps réel;
 - Programmation du module de captation des données;
 - Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
 - Installation de l'équipement dans l'espace physique.

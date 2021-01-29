@@ -10,17 +10,20 @@
 - [Semaine 6 (13 au 19 mars)](#Semaine-6-(13-au-19-mars))
 
 ---
+### Résumé des tâches globales à faire
+- Inventaire du contenu multimédia
+- Réalisation d'une maquette de l'interface web
+- Réalisation du front end de l'interface
+- Réalisation du back end de l'interface
+- Finitions des animations
+
 ## Semaine 0 (25 au 29 janvier)
 
 ### Résumé des réalisations effectuées
-- Création des animations
+- Inventaire du contenu multimédia
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+////
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
@@ -29,26 +32,27 @@ ou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+Bloqué par la création de la maquette qui contient d'autres contenus non déterminé à date
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+Terminer la maquette
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [x] Assez
-- [ ] Un peu
+- [ ] Assez
+- [x] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+Manque du contenu multimédia
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+Travail ce weekend
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+- Inventaire du contenu multimédia
+- Réalisation d'une maquette de l'interface web
 
 ---
 ## Semaine 1 (30 janvier au 5 février)
