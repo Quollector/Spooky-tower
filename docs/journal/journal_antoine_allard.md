@@ -16,36 +16,47 @@
 ### Résumé des réalisations effectuées
 - Détermination des rôles
 - Création du Journal personnel
+- Mise à jour du schéma de branchement
+- Schéma de plantation
+- Plan de la tour
+- Détermination des équipements et logiciels
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![exemple de plantation](medias/plantation.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
 
+Je n'ai pas complété mon journal à temps.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Faire mon journal le jeudi absolument à l'avenir.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Je ne suis pas encore certain à 100% des équipements en électricité et en réseau.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Faire une rencontre privé avec les professeurs vu qu'il n'y avait pas de réunion technique.
+
 ### Défis pour la prochaine semaine
 
+Avoir fini la préproduction et ainsi connaître tous les équipements nécessaires.
 
 ---
 ## Semaine 1 (30 janvier au 5 février)

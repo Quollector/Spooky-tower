@@ -72,7 +72,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Plantation 
 
-![exemple de plantation](medias/o3_plantation.svg)
+![exemple de plantation](medias/plantation.jpg)
 
 ## Matériel de scénographie requis
 
@@ -85,14 +85,14 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Audio
     * 4 Haut-parleurs bluetooth DIVOOM AIRBEAT-10
-    * 2 Hauts-parleurs Genelec 8010 8"
+    * 4 Hauts-parleurs Genelec 8010 8"
 
 * Vidéo
     * 2 Projecteur standard, ratio 1.5, 3500 lumens
     * 1 Kinect V2 + adaptateur pc
 
 * Lumière
-    * ?
+    * 4 Chauvet slimPAR Pro USB
 
 * Électricité
     * ?
