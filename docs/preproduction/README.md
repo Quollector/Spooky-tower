@@ -55,7 +55,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 # Planification technique (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio.  
+> Insérer plans, documents et schémas pertinents dans cette section.  
 
 ### Schéma de branchement 
 
