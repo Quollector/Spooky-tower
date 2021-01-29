@@ -48,15 +48,7 @@ Par ce projet, nous souhaitons mettre l'accent sur l'anxiété et le stress de c
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 15 icônes de navigation (pour les utilisateur-trices)
-- 8 montages d'image
-- 3 paysages sonores
-- 5 vidéos d'animation 2D
-- 3 textes poétiques
-- 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
-- ...
-
-Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
+[Inventaire du contenu à intégrer](https://docs.google.com/spreadsheets/d/1OvP3xgN0axjtxIeO2JyGzZx_uvsgmqFpQghbXrXnPnE/edit?usp=sharing})
 
 ## Univers artistique des éléments
 Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
@@ -179,13 +171,7 @@ https://github.com/Quollector/Spooky-tower/projects/2?card_filter_query=assignee
 - **Comité Technique et coordination technique (suivi du devis technique);**
 - Plan des équipements et câblage
 - Plan des connections entre les les différents équipement et la régie
-- Déterminer l'emplacement de la régie
-- Déterminer les dimensions et les matériaux de la tour
-- Déterminer les équipements requis
-- Déterminer l'emplacement exact de l'expérience interactive
-- Déterminer l'emplacement exact de chaque équipement
 - Montage de la scène et test des positions de l'équipement
-- S'assurer que le câblage soit pratique et sécuritaire
 
 Liste des tâches dans Git Hub:  
 https://github.com/Quollector/Spooky-tower/issues/assigned/AntoAllard
@@ -193,7 +179,6 @@ https://github.com/Quollector/Spooky-tower/projects/2?card_filter_query=assignee
 
 ### **Quentin Lequenne**
 - **Comité Diffusion et coordination de la diffusion (mise en ligne du Site Web, organisation de la plateforme et de l'événement de diffusion);**
-- Installation et mise en place de la capture audiovidéo du projet en temps réel;
 - Programmation du module de captation des données;
 - Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
 
@@ -205,7 +190,6 @@ https://github.com/Quollector/Spooky-tower/projects/2?card_filter_query=assignee
 - **Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);**
 - Création des paysages sonores sonores;
 - Programmation du module Max d'effet et de contrôle audio;
-
 
 Liste des tâches dans Git Hub:  
 https://github.com/Quollector/Spooky-tower/issues/assigned/felixjasmin

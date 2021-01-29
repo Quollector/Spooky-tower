@@ -10,7 +10,7 @@
 - [Semaine 6 (13 au 19 mars)](#Semaine-6-(13-au-19-mars))
 
 ---
-### Résumé des tâches global à faire
+### Résumé des tâches globales à faire
 - Inventaire du contenu multimédia
 - Réalisation d'une maquette de l'interface web
 - Réalisation du front end de l'interface
@@ -28,23 +28,24 @@
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
-- [x] Pas du tout
+- [x] Peu
+- [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Peu de temps disponible
+Bloqué par la création de la maquette qui contient d'autres contenus non déterminé à date
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Fournir plus de travail pour la prochaine session
+Terminer la maquette
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
-- [x] Pas tout à fait
+- [x] Un peu
+- [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
+Manque du contenu multimédia
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Travail ce weekend
@@ -52,6 +53,7 @@ Travail ce weekend
 ### Défis pour la prochaine semaine
 - Inventaire du contenu multimédia
 - Réalisation d'une maquette de l'interface web
+
 ---
 ## Semaine 1 (30 janvier au 5 février)
 ### Résumé des réalisations effectuées
