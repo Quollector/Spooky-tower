@@ -21,9 +21,8 @@
 ## Semaine 0 (25 au 29 janvier)
 
 ### Résumé des réalisations effectuées
--
--
--
+-Moodboard
+-Scénario/ explication du fonctionnement
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
