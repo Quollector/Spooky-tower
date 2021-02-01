@@ -55,7 +55,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 # Planification technique (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette section.  
 
 ### Schéma de branchement 
 
@@ -68,12 +67,14 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ## Matériel de scénographie requis
 
-> Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
+> Liste des matériaux de scénographie (matériaux de décor) requis(quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
+Tour blanche
 
+![exemple de plantation](medias/plan_tour.jpg)
 
 ## Équipements requis
-> Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
+> Liste des équipements requis par département (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
     * 4 Haut-parleurs bluetooth DIVOOM AIRBEAT-10
@@ -102,8 +103,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
 * [Max 8](https://cycling74.com/products/max)
 * [Open stage control](https://openstagecontrol.ammd.net/)
 * [Open Broadcaster Software](https://obsproject.com)
@@ -111,6 +110,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * [Illustrator](https://www.adobe.com/ca/products/illustrator.html)
 * [Photoshop](https://www.adobe.com/ca/products/photoshop.html)
 * [Reaper](https://www.reaper.fm)
+* [Filezilla](https://filezilla-project.org)
+* [draw.io](https://app.diagrams.net)
 
 ## Ressources humaines requises
 > Moments et fonctions où une intervention humaine externe à l'équipe est nécessaire et pourquoi. Formaté en liste ou en lien vers un tableur Excel.
