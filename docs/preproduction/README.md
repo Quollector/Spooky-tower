@@ -36,10 +36,6 @@ Le public est invité à se positionner devant chacune des faces pour faire fuir
 Par ce projet, nous souhaitons mettre l'accent sur l'anxiété et le stress de certains individus face aux foules. Il s'agit d'un regard sur la face opposé du confinement où beaucoup ne se sentent pas à l'aise d'être seuls chez eux. Exactement comme certains ne se sentent pas à l'aise quand ils sont à l'extérieur avec d'autres gens.
 
 ## Tableau d'ambiance (*moodboard*)
-> Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
-
-> Insérez directement des captures d'écran et liens vers des médias ici.
-
 ![moodboard](medias/MoodBoard_Spooky_Tower.png)
 [Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
 
