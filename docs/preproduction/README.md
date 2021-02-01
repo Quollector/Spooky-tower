@@ -85,6 +85,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Lumière
     * 4 Chauvet slimPAR Pro USB
+    * Chauvet Obey 40 - Controlleur DMX
 
 * Électricité
     * ?
@@ -96,7 +97,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 1 Ordinateur portable PC avec Dragon Frame - Keypad Dragon Frame
     
 * Autre
-    * Tout autre élément pertinant
+    * Machine à fumée
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
