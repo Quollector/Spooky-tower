@@ -57,40 +57,44 @@ Travail ce weekend
 ---
 ## Semaine 1 (30 janvier au 5 février)
 ### Résumé des réalisations effectuées
-
+- Inventaire du contenu multimédia
+- Réalisation d'une maquette de l'interface web
+- Préparation de l'espace qui accueillera le site de diffusion (achat nom de domaine, liaison au serveur, tests de mise en ligne - http://spookytower.ca/ )
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+[Maquette de l'interface web](medias/realisations/quentin/realisation_semaine1.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Bonne gestion de la repartition des tâches dans l'équipe et de mon temps de travail me permet d'avancer efficacement
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+/
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Avance sur mon échéancier
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+/
 
 ### Défis pour la prochaine semaine
-
+- Réalisation d'un schéma de mon code pour déterminer le langage le plus approprié aux différentes fonctions de l'interface
+- Détermination des langages à utiliser
+- Création de deadlines pour les différentes parties du code
 
 ---
 ## Semaine 2 (6 au 12 février)
