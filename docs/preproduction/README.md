@@ -40,6 +40,7 @@ Par ce projet, nous souhaitons mettre l'accent sur l'anxiété et le stress de c
 
 > Insérez directement des captures d'écran et liens vers des médias ici.
 
+![moodboard](medias/MoodBoard_Spooky_Tower.PNG)
 [Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
 
 ## Scénario, scénarimage ou document audio/visuel
