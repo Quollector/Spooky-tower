@@ -37,10 +37,12 @@ Par ce projet, nous souhaitons mettre l'accent sur l'anxiété et le stress de c
 
 ## Tableau d'ambiance (*moodboard*)
 ![moodboard](medias/MoodBoard_Spooky_Tower.png)
-[Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
 
 ## Scénario, scénarimage ou document audio/visuel
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
+Une tour d’une hauteur d’environ 5’ est placé au centre d’une pièce. Un personnage est présent sur l’une des cinq surfaces de la tour (les face qui sont visibles). Lorsqu’un individu se place devant la même surface que le personnage, celui-ci changera de surface. Le personnage continuera de s’enfuir tant qu’il y aura un individu qui sera en face de lui. Si les quatre faces latérales de la tour sont occupées par des individus, le personnage sera forcé de se rendre au sommet de la tour pour un certain moment pour finalement redescendre et ainsi de suite.
+En fait, un capteur est placé au-dessus de la tour pour détecter les participants qui se trouvent potentiellement devant une des faces de la tour. Après qu’une détection ait été fait, le personnage changera de surface. En d’autres mots, la détection d’un individu va envoyer un message au système et déclenchera une animation. 
+Par ailleurs, étant donné que l’expérience sera également disponible sur le web, les participants à distance pourront également faire déplacer le personnage grâce à un système de vote en ligne. Les participants en ligne pourront décider la prochaine présence(fictive) à avoir face à la tour.
+
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
