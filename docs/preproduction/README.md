@@ -57,17 +57,17 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Schéma de branchement 
 
-!(medias/branchement.jpg)
+![branchement](medias/branchement.jpg)
 
 ### Plantation 
 
-!(medias/plantation.jpg)
+![plantation](medias/plantation.jpg)
 
 ## Matériel de scénographie requis
 
 Tour blanche
 
-!(medias/plan_tour.jpg)
+![tour](medias/plan_tour.jpg)
 
 ## Équipements requis
 
