@@ -55,52 +55,55 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/schéma.JPG)
-![exemple de schema](medias/schéma02.JPG)
+!(medias/branchement.jpg)
 
 ### Plantation 
 
-![exemple de plantation](medias/plantation.jpg)
+!(medias/plantation.jpg)
 
 ## Matériel de scénographie requis
 
-> Liste des matériaux de scénographie (matériaux de décor) requis(quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
-
 Tour blanche
 
-![exemple de plantation](medias/plan_tour.jpg)
+!(medias/plan_tour.jpg)
 
 ## Équipements requis
-> Liste des équipements requis par département (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
     * 4 Haut-parleurs bluetooth DIVOOM AIRBEAT-10
     * 4 Hauts-parleurs Genelec 8010 8"
+    * 4 câble XLR 25'
+    * 1 Usb vers xlr
 
 * Vidéo
     * 2 Projecteur standard, ratio 1.5, 3500 lumens
     * 1 Kinect V2 + adaptateur pc
+    * 2 extenders vidéo projecteur
 
 * Lumière
     * 4 Chauvet slimPAR Pro USB
-    * Chauvet Obey 40 - Controlleur DMX
+    * 1 Chauvet Obey 40 - Controlleur DMX
 
 * Électricité
-    * ?
+    * 2 multiprises
+    * 2 extensions 25'
 
 * Réseau
-    * ?
+    * 2 câble ethernet 25'
 
 * Ordinateur
-    * 1 Ordinateur portable PC avec Dragon Frame - Keypad Dragon Frame
+    * 1 Desktop chariot mobile
+    * MadMapper
+    * Max 8
     
 * Autre
     * Machine à fumée
+    * Système d'accrochage pour projecteurs
 
 ## Logiciels requis
-> Liste des logiciels requis, version ainsi que leurs dépendences
 
 * [Max 8](https://cycling74.com/products/max)
+* [MadMapper](https://madmapper.com)
 * [Open stage control](https://openstagecontrol.ammd.net/)
 * [Open Broadcaster Software](https://obsproject.com)
 * [After Effect](https://www.adobe.com/ca/products/aftereffects.html)
@@ -111,26 +114,30 @@ Tour blanche
 * [draw.io](https://app.diagrams.net)
 
 ## Ressources humaines requises
-> Moments et fonctions où une intervention humaine externe à l'équipe est nécessaire et pourquoi. Formaté en liste ou en lien vers un tableur Excel.
 
-* 32 janvier, TTP, location de matériel 
-* 35 janvier, TTP, retour du matériel
+Location d'équipement :
+* 10 février, TTP, location de matériel 
+* 26 mars, TTP, retour du matériel
+
+Accrochage : 
+* 11 février, équipe, montage de l'expérience
+* 26 mars, équipe, démontage de l'expérience
 
 ## Ressources spatiales requises (rangement et locaux)
-> Moments et spécifications des espaces utilisés formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
-    * 32 janvier au 35 janvier
-        * Projection vidéo dans le cyclo
-        * 6 heures
-    * 37 janvier au 39 janvier 
-        * Capatation vidéo
-        * 4 heures
+    * 10 février au 18 mars
+        * Installation de l'expérience
+        * Résolution des problèmes
+        * Multiples tests et essais
 
-* Petit studio
-    * 42 janvier au 56 janvier 
-        * Enregsitrement audio
-        * 8 heures
+    * 19 mars au 25 mars
+        * Pratique et diffusion
+
+* Salle des matrices
+    * 10 février au 18 mars
+        * DMX
+        * Patch
     
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
