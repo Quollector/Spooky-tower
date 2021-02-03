@@ -143,9 +143,9 @@ Accrochage :
     
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/)
+![Budget prévisionnel](medias/budget_spooky_tower.png)
 
-[Lien vers document]()
+[Lien vers document](https://docs.google.com/spreadsheets/d/1kHZWbiHMfSaipFloLJ8W2hEs6XVXDz1Rte_uiNLSNUQ/edit#gid=0)
 
 
 ## Échéancier global
