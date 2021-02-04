@@ -155,7 +155,7 @@ Accrochage :
     
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/budget_spooky_tower.png)
+![Budget prévisionnel](medias/budget_spooky_tower_reviser_01.png)
 
 [Lien vers document](https://docs.google.com/spreadsheets/d/1kHZWbiHMfSaipFloLJ8W2hEs6XVXDz1Rte_uiNLSNUQ/edit#gid=0)
 
