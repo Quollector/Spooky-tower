@@ -61,7 +61,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Plantation 
 
-![plantation](medias/plantation.jpg)
+![plantation](medias/plantation1.jpg)
 
 ## Matériel de scénographie requis
 
