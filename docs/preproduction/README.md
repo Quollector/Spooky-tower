@@ -76,11 +76,13 @@ Tour blanche
     * 4 Hauts-parleurs Genelec 8010 8"
     * 4 câble XLR 25'
     * 1 Usb vers xlr
+    * 1 Carte de son Berhinger U-Phoria 8 in 8 out
 
 * Vidéo
     * 2 Projecteur standard, ratio 1.5, 3500 lumens
-    * 1 Kinect V2 + adaptateur pc
-    * 2 extenders vidéo projecteur
+    * 1 Kinect V1
+    * 2 Extenders vidéo projecteur
+    * 
 
 * Lumière
     * 4 Chauvet slimPAR Pro USB
@@ -99,8 +101,17 @@ Tour blanche
     * Max 8
     
 * Autre
-    * Machine à fumée
-    * Système d'accrochage pour projecteurs
+    * 1 Machine à fumée
+    * 2 Système d'accrochage pour projecteurs
+
+* QUESTIONS : 
+    4 caméras logitech 920S *
+    Cables Cahuvet SlimPAR
+    Cables pour DIVOOM AIRBEAT-10
+    Cables projecteurs
+    Cables kinect
+    Cables logitech 920S
+    Systèmes d'accrochage pour kinect, Genelec, Chauvet slimPAR, logitech 920S
 
 ## Logiciels requis
 
@@ -137,9 +148,10 @@ Accrochage :
         * Pratique et diffusion
 
 * Salle des matrices
-    * 10 février au 18 mars
+    * 10 février au 25 mars
         * DMX
         * Patch
+        * Ordinateur desktop chariot
     
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
