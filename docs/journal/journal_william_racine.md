@@ -59,10 +59,12 @@ Notre objectif de la semaine était de déterminer les rôles de chacun ainsi qu
 ---
 ## Semaine 1 (30 janvier au 5 février)
 ### Résumé des réalisations effectuées
-
+- Corriger la préproduction.
+- Planifier un budget.
+- Magasiner pour une surface de projection.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![budget](medias/realisations/william/budget_spooky_tower.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
