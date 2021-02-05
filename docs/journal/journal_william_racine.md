@@ -24,7 +24,7 @@
 - Avancer la préproduction
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![résumé des réalisation effectuées](medias/realisations/william/realisation_w0.png)
+![résumé des réalisation effectuées](medias/william/realisation_w0.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
@@ -64,25 +64,25 @@ Notre objectif de la semaine était de déterminer les rôles de chacun ainsi qu
 - Magasiner pour une surface de projection.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![budget](medias/realisations/william/budget_spooky_tower.png)
+![budget](medias/william/budget_spooky_tower_reviser_01.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai compléter la correction de la partie de la préproduction que je m'occupais. De plus, j'ai appelé plsuieurs magasins de tissus pour déterminer nos options en terme de surface de projection.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -94,7 +94,7 @@ Notre objectif de la semaine était de déterminer les rôles de chacun ainsi qu
 
 
 ### Défis pour la prochaine semaine
-
+Après la validation de la préproduction, notre équipe va se lancer sur la réalisation du prototype. Il reste à déterminer quel prototype nous allons faire.
 
 ---
 ## Semaine 2 (6 au 12 février)
