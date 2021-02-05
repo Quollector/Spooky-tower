@@ -40,7 +40,11 @@ Par ce projet, nous souhaitons mettre l'accent sur l'anxiété et le stress de c
 
 Lien vers extrait audio intéressant d'ambiance sonnor 
 39:25​ – Lumberjack of Redfire Forest
+46:37​ – Town of Fables
 https://www.youtube.com/watch?v=MfwOJWDj18k
+
+Ici, je reprendrais une ligne de basse dans le genre. La guitare est bien, mais trop intense pour un ambiance. 
+https://www.youtube.com/watch?v=Go7WoT8pSWg&list=PLj3oPX9ORL9MZd9j0R-EjqLT1a0yO6YoM
 
 
 ## Scénario, scénarimage ou document audio/visuel
