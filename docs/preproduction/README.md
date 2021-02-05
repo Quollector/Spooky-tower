@@ -80,7 +80,7 @@ Tour blanche
 
 ## Équipements requis
 
-![Lien vers document](https://drive.google.com/file/d/1lWa3psT-4P8tG6VKvaLpJB6fhlNFTs35/view?usp=sharing)
+[Lien vers document](https://drive.google.com/file/d/1lWa3psT-4P8tG6VKvaLpJB6fhlNFTs35/view?usp=sharing)
 
 * Audio
     * 4 Haut-parleurs bluetooth DIVOOM AIRBEAT-10
