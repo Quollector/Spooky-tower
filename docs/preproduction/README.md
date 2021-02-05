@@ -57,11 +57,11 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Schéma de branchement 
 
-![branchement](medias/branchement.jpg)
+![branchement](medias/branchement_final.jpg)
 
 ### Plantation 
 
-![plantation](medias/plantation1.jpg)
+![plantation](medias/plantation_final.jpg)
 
 ## Matériel de scénographie requis
 
@@ -71,21 +71,29 @@ Tour blanche
 
 ## Équipements requis
 
+![Lien vers document](https://drive.google.com/file/d/1lWa3psT-4P8tG6VKvaLpJB6fhlNFTs35/view?usp=sharing)
+
 * Audio
     * 4 Haut-parleurs bluetooth DIVOOM AIRBEAT-10
     * 4 Hauts-parleurs Genelec 8010 8"
-    * 4 câble XLR 25'
-    * 1 Usb vers xlr
     * 1 Carte de son Berhinger U-Phoria 8 in 8 out
 
 * Vidéo
     * 2 Projecteur standard, ratio 1.5, 3500 lumens
     * 1 Kinect V1
-    * 2 Extenders vidéo projecteur
+    * 4 Caméra - Sony A6000
 
 * Lumière
     * 4 Chauvet slimPAR Pro USB
     * 1 Chauvet Obey 40 - Controlleur DMX
+
+* Câbles
+    * 8 câble XLR 25'
+    * 5 câble ethernet 25'
+    * 1 Usb vers xlr
+    * 6 Extenders HDMI
+    * 4 Adaptateur 1/8 femelle trs vers 1/4 male trs
+    * 4 câble 1/8 6'
 
 * Électricité
     * 2 multiprises
@@ -98,19 +106,16 @@ Tour blanche
     * 1 Desktop chariot mobile
     * MadMapper
     * Max 8
+    * OBS
     
 * Autre
     * 1 Machine à fumée
     * 2 Système d'accrochage pour projecteurs
+    * 4 Cheezboro pour haut-parleurs genelec
+    * 14 Câble de sécurité
+    * 8 Système de fixation extensible 5' à 10'
+    * 2 Tige accrochage 3'
 
-* QUESTIONS : 
-    4 caméras logitech 920S *
-    Cables Cahuvet SlimPAR
-    Cables pour DIVOOM AIRBEAT-10
-    Cables projecteurs
-    Cables kinect
-    Cables logitech 920S
-    Systèmes d'accrochage pour kinect, Genelec, Chauvet slimPAR, logitech 920S
 
 ## Logiciels requis
 
@@ -138,7 +143,7 @@ Accrochage :
 ## Ressources spatiales requises (rangement et locaux)
 
 * Grand studio
-    * 10 février au 18 mars
+    * 10 février au 18 mars 
         * Installation de l'expérience
         * Résolution des problèmes
         * Multiples tests et essais
