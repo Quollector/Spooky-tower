@@ -62,39 +62,49 @@ Avoir fini la préproduction et ainsi connaître tous les équipements nécessai
 ## Semaine 1 (30 janvier au 5 février)
 ### Résumé des réalisations effectuées
 
+- Avoir fini tous les plans détaillés
+- Avoir une liste de tout l'équipements
+- Avoir participé au comité technique
+- Préproduction presque complété
+- Rendez-vous avec professeurs et TTP
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![exemple de branchement](medias/realisations/antoine/branchement.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+Je n'ai pas complété la préproduction à 100%.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+La finir cette fin de semaine, les plans et équipements ont pris plus de temps que prévu.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Pas vraiment d'écart, mais certains équipements sont encore à décider (surtout au niveau du câblage et de la diffusion).
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+ J'ai un rendez-vous avec Cédrick à 14h vendredi finaliser nos équipements.
 
 ### Défis pour la prochaine semaine
 
+Avoir fini la préproduction pour mardi et prendre possession d'une partie de notre matériel.
 
 ---
 ## Semaine 2 (6 au 12 février)

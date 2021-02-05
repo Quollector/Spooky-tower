@@ -82,7 +82,6 @@ Tour blanche
     * 2 Projecteur standard, ratio 1.5, 3500 lumens
     * 1 Kinect V1
     * 2 Extenders vidéo projecteur
-    * 
 
 * Lumière
     * 4 Chauvet slimPAR Pro USB
