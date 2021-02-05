@@ -60,7 +60,8 @@ Me concentrer sur l'Issues concernant les haut-parleurs.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![musique d'ambiance](medias/felix/journal_semaine_01.jpg)
+Mes principaux outils en ce moment
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
