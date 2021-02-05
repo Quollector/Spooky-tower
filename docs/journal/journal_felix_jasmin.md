@@ -55,39 +55,42 @@ Me concentrer sur l'Issues concernant les haut-parleurs.
 ### Résumé des réalisations effectuées
 -Appeler à la boutique de tissu pour avoir certain renseignement
 -Trouvé une solution pour le positionnement des speakers
+-Finalisé le moodboard ( amener les corrections à avoir)
+-Retravailler la musique d'ambiance
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![musique d'ambiance](medias/felix/journal_semaine_01.jpg)
+Mes principaux outils en ce moment
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [ X ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai eu un empêchement cette semaine et ça m'a fait prendre un peu de retard malheureusement. J'ai tout de même retravaillé sur la musique d'ambiance et travaillé sur le moodboard.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Rattraper mon retard en travaillant sur le projet en fin de semaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [ X ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+---
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+---
 
 ### Défis pour la prochaine semaine
-
+Se rendre au studio et commencé à travailler sur notre scène.
 
 ---
 ## Semaine 2 (6 au 12 février)

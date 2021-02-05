@@ -38,6 +38,15 @@ Par ce projet, nous souhaitons mettre l'accent sur l'anxiété et le stress de c
 ## Tableau d'ambiance (*moodboard*)
 ![moodboard](medias/MoodBoard_Spooky_Tower.png)
 
+Lien vers extrait audio intéressant d'ambiance sonnor 
+39:25​ – Lumberjack of Redfire Forest
+46:37​ – Town of Fables
+https://www.youtube.com/watch?v=MfwOJWDj18k
+
+Ici, je reprendrais une ligne de basse dans le genre. La guitare est bien, mais trop intense pour un ambiance. 
+https://www.youtube.com/watch?v=Go7WoT8pSWg&list=PLj3oPX9ORL9MZd9j0R-EjqLT1a0yO6YoM
+
+
 ## Scénario, scénarimage ou document audio/visuel
 Une tour d’une hauteur d’environ 5’ est placé au centre d’une pièce. Un personnage est présent sur l’une des cinq surfaces de la tour (les face qui sont visibles). Lorsqu’un individu se place devant la même surface que le personnage, celui-ci changera de surface. Le personnage continuera de s’enfuir tant qu’il y aura un individu qui sera en face de lui. Si les quatre faces latérales de la tour sont occupées par des individus, le personnage sera forcé de se rendre au sommet de la tour pour un certain moment pour finalement redescendre et ainsi de suite.
 En fait, un capteur est placé au-dessus de la tour pour détecter les participants qui se trouvent potentiellement devant une des faces de la tour. Après qu’une détection ait été fait, le personnage changera de surface. En d’autres mots, la détection d’un individu va envoyer un message au système et déclenchera une animation. 
