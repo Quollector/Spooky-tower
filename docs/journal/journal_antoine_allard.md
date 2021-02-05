@@ -23,7 +23,7 @@
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![exemple de plantation](/medias/realisations/antoine/plantation.jpg)
+![schéma de plantation](medias/antoine/plantation1.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
@@ -70,7 +70,7 @@ Avoir fini la préproduction et ainsi connaître tous les équipements nécessai
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![exemple de branchement](/medias/realisations/antoine/branchement.jpg)
+![schéma de branchement](medias/antoine/branchement.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
