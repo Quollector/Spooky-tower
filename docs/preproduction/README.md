@@ -152,13 +152,41 @@ Accrochage :
 ## Ressources spatiales requises (rangement et locaux)
 
 * Grand studio
-    * 10 février au 18 mars 
-        * Installation de l'expérience
-        * Résolution des problèmes
-        * Multiples tests et essais
+    * 10 au 12 février 
+        * Prise de possession d'un projecteur, d'un haut-parleur, de pieds de micro, d'une caméra et d'une lumière
+        * Commencer à installer les éléments pour des tests préliminaires
+        * Tests de projecteurs sur la tour avec Madmapper
+
+    * 15 au 19 février
+        * Tests de projecteurs sur la tour avec Madmapper
+        * Installation de l'équipements
+        * Installation de la régie
+        * Branchement des équipements entre expérience et régie
+        * Tests préliminaires avec la logique
+
+    * 22 au 26 février
+        * Continuer à adapter la logique
+        * Commandes des matériaux et construction de la tour
+        * Installation de la tour dans l'expérience
+
+    * 1er au 5 mars
+        * Contrôle des lumières
+        * Contrôle de la dectection des zones
+        * Contrôle du son
+        * Contrôle des caméras
+        * Continuer à adapter la logique
+
+    * 8 au 12 mars
+        * Continuer à adapter la logique
+        * Tests avec diffusion
+        * Tests avec détection
+        * Tests interface à distance
+
+    * 15 au 18 mars
+        * Tests et résolutions de problèmes
 
     * 19 mars au 25 mars
-        * Pratique et diffusion
+        * Pratiques et diffusions
 
 * Salle des matrices
     * 10 février au 25 mars
