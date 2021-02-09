@@ -190,10 +190,9 @@ Accrochage :
 
 * Salle des matrices
     * 10 février au 25 mars
-        * DMX
         * Patch
-        * Ordinateur desktop chariot
-    
+        * Branchements de l'expérience (lumières, hauts-parleurs, caméras, kinect) vers notre Régie (desktop, DMX, carte de son)
+        
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](medias/budget_spooky_tower_reviser_01.png)
