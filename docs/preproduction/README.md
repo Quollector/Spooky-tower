@@ -205,6 +205,7 @@ Accrochage :
 https://github.com/Quollector/Spooky-tower/milestones
 
 *Dates importantes de diffusion :*
+- Pratique générale : 18 mars (17h à 22h)
 - Pratique générale : 19 mars (toute la journée)
 - Début de la diffusion : lundi 22 mars
 - Présentation des projets devant public : jeudi 25 mars (soir)
