@@ -84,10 +84,10 @@ Rattraper mon retard en travaillant sur le projet en fin de semaine.
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
----
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
----
+N/A
 
 ### Défis pour la prochaine semaine
 Se rendre au studio et commencé à travailler sur notre scène.
@@ -95,7 +95,8 @@ Se rendre au studio et commencé à travailler sur notre scène.
 ---
 ## Semaine 2 (6 au 12 février)
 ### Résumé des réalisations effectuées
-
+Nous avons présenté la préproduction. Nous nous sentions plutôt prêt pour la présentation et sommes fier de nous.
+Cette semaine on s'ait rendu au studio et on a commencé à monter les projecteurs et les lumières. On a commencé à faire plusieurs testes notamment avec les projecteurs.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -103,32 +104,31 @@ Se rendre au studio et commencé à travailler sur notre scène.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [ X ] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Nous avons eux un bon retour par rapport à la présentation de la préproduction et nous avons commencé à faire le montage dans le grand studio. Nous respectons notre échéancier et le déroulement général du montage dans le grand studio ce passe assez bien jusqu'à maintenant.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+--- Ça va bien.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [ X ] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
-
+N/A
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+Continuer à faire le montage dans le grand studio. Je crois qu'il serait vraiment important de completé un maximum de teste avec les projecteurs car ça semble être notre plus grand enjeu pour le moment. Si le temps nous le permet, ça serait plutôt bien de commencer à monter l'équipement pour l'aspect sonnor du projet.
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
