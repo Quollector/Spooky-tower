@@ -99,28 +99,31 @@ Après la validation de la préproduction, notre équipe va se lancer sur la ré
 ---
 ## Semaine 2 (6 au 12 février)
 ### Résumé des réalisations effectuées
-
+- Correction de la partie 4 de la préproduction
+- Modification du budget selon l'avancement du projet
+- Montage des lumières test dans le grand studio
+- Branchement de l'ordinatieur de contrôle
+- Test de projection
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Branchement](medias/william/setup_will.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Nous avons fait plusieurs tests de placement durant les 3 derniers jours de la semaine, ainsi que des tests d'éclairage.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -132,6 +135,9 @@ Après la validation de la préproduction, notre équipe va se lancer sur la ré
 
 
 ### Défis pour la prochaine semaine
+- Continuer montage de l'expérience
+- Faire du travail personnel dans Max
+- Tester Vbap pour le contrôle du son
 
 ---
 ## Semaine 3 (13 au 19 février)
