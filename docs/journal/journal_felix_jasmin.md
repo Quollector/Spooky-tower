@@ -99,7 +99,7 @@ Nous avons présenté la préproduction. Nous nous sentions plutôt prêt pour l
 Cette semaine on s'ait rendu au studio et on a commencé à monter les projecteurs et les lumières. On a commencé à faire plusieurs testes notamment avec les projecteurs.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Début du montage dans le grand studio](medias/felix/journal_semaine_02.jpg)
+![Début du montage dans le grand studio](medias/felix/journal_semaine_02a.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
