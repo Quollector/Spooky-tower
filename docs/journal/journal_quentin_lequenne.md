@@ -63,7 +63,7 @@ Travail ce weekend
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-[Maquette de l'interface web](medias/realisations/quentin/realisation_semaine1.jpg)
+![Maquette de l'interface web](medias/realisations/quentin/realisation_semaine1.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -99,40 +99,44 @@ Avance sur mon échéancier
 ---
 ## Semaine 2 (6 au 12 février)
 ### Résumé des réalisations effectuées
-
-
+- Réalisation d'un schéma de mon code pour déterminer le langage le plus approprié aux différentes fonctions de l'interface
+- Détermination des langages à utiliser
+- Création de deadlines pour les différentes parties du code
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Schéma de fonctionnement de l'interface](medias/realisations/quentin/realisation_semaine2.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Charge de travail assez légère
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+/
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+/
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+/
 
 ### Défis pour la prochaine semaine
-
+- Réalisation du HTML/CSS de l'interface simplifiée
+- Réalisation du JavaScript de l'interface simplifiée
+- Prise de renseignements sur la meilleure façon de diffuser les flux vidéos en ligne
+- Tests de diffusion en ligne
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
