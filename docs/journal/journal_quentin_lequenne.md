@@ -63,7 +63,7 @@ Travail ce weekend
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![Maquette de l'interface web](medias/realisations/quentin/realisation_semaine1.jpg)
+![Maquette de l'interface web](medias/quentin/realisation_semaine1.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -104,7 +104,7 @@ Avance sur mon échéancier
 - Création de deadlines pour les différentes parties du code
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![Schéma de fonctionnement de l'interface](medias/realisations/quentin/realisation_semaine2.jpg)
+![Schéma de fonctionnement de l'interface](medias/quentin/realisation_semaine2.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
