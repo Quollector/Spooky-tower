@@ -110,38 +110,49 @@ Avoir fini la préproduction pour mardi et prendre possession d'une partie de no
 ## Semaine 2 (6 au 12 février)
 ### Résumé des réalisations effectuées
 
+- Présentation de la préproduction
+- Mise à jour de la préproduction
+- Acquisition du matériel
+- Acquisition de l'espace pour l'expérience
+- Tests et assemblage d'équipements
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![quentin le travaillant](medias/antoine/test_lumiere.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+La présentation de la préproduction était claire et précise, et les mises à jour suite aux commentaires ont été effectuées tout de suite après la rencontre. J'ai aussi géré l'acquisition du matériel et je me suis assuré de tout avoir selon notre plan théorique.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Nous avions prévu faire des tests avec Madmapper ou de la projection, mais il y a eu une plus grande adaptation au niveau de l'équipement et de l'emplacement physique. Par exemple, les lumières n'étaient pas les bonnes pour faire des spots sur le sol.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Nous avons déjà effectué un deuxième checkup complet du matériel, donc nous devrions avoir tout pour mettre l'expérience en place.
 
 ### Défis pour la prochaine semaine
+
+Effectuer différents tests de projection, ainsi que s'entendre sur la position et la dimension exactes de la tour.
 
 ---
 ## Semaine 3 (13 au 19 février)
