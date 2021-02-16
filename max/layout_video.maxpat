@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 84.0, 1211.0, 1275.0 ],
+		"rect" : [ 41.0, 84.0, 1211.0, 1282.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -39,6 +39,30 @@
 		"subpatcher_template" : "",
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-36",
+					"maxclass" : "toggle",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "int" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 35.987322092056274, 652.0, 21.012677907943726, 21.012677907943726 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-12",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 115.68421459197998, 726.444910287857056, 298.0, 22.0 ],
+					"text" : "jit.gl.spoutsender spooky @sendername spooky-spout"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-42",
 					"maxclass" : "newobj",
@@ -118,7 +142,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 876.43421459197998, 1194.904809951782227, 29.5, 22.0 ],
-					"text" : "1"
+					"text" : "2"
 				}
 
 			}
@@ -235,7 +259,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 447.649751901626587, 1306.904809951782227, 50.0, 22.0 ],
-					"text" : "2 2 4 3"
+					"text" : "2 2 3 3"
 				}
 
 			}
@@ -418,7 +442,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 153.461000680923462, 987.404809951782227, 18.0, 66.0 ],
 					"size" : 4,
-					"value" : 0
+					"value" : 2
 				}
 
 			}
@@ -1102,7 +1126,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1050.93421459197998, 997.904809951782227, 50.0, 22.0 ],
-					"text" : "4 1"
+					"text" : "4 3"
 				}
 
 			}
@@ -1321,7 +1345,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 719.93421459197998, 387.944910287857056, 50.0, 22.0 ],
-					"text" : "2000."
+					"text" : "1000."
 				}
 
 			}
@@ -1727,8 +1751,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 480.68421459197998, 612.944910287857056, 93.0, 22.0 ],
-					"text" : "position $1 $2 1"
+					"patching_rect" : [ 480.68421459197998, 612.944910287857056, 110.0, 22.0 ],
+					"text" : "position $1 $2 0.99"
 				}
 
 			}
@@ -1815,8 +1839,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_matrix", "" ],
-					"patching_rect" : [ 67.18421459197998, 380.4210524559021, 305.0, 22.0 ],
-					"text" : "jit.gl.layer @scale 0.3 0.3 1 @position $1 $2 1 @layer 2"
+					"patching_rect" : [ 67.18421459197998, 380.4210524559021, 294.0, 22.0 ],
+					"text" : "jit.gl.layer spooky @scale 0.3 0.3 1 @position $1 $2 1"
 				}
 
 			}
@@ -1827,8 +1851,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_matrix", "" ],
-					"patching_rect" : [ 115.68421459197998, 612.944910287857056, 208.0, 22.0 ],
-					"text" : "jit.gl.layer @scale 1.065 1 1 @layer 1"
+					"patching_rect" : [ 115.68421459197998, 612.944910287857056, 197.0, 22.0 ],
+					"text" : "jit.gl.layer spooky @scale 1.065 1 1"
 				}
 
 			}
@@ -1838,9 +1862,9 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 3,
-					"outlettype" : [ "jit_matrix", "bang", "" ],
-					"patching_rect" : [ 120.921052217483521, 692.789470911026001, 313.0, 22.0 ],
-					"text" : "jit.world spooky @size 1920 1080 @enable 1 @floating 1"
+					"outlettype" : [ "jit_gl_texture", "bang", "" ],
+					"patching_rect" : [ 115.68421459197998, 684.789470911026001, 504.0, 22.0 ],
+					"text" : "jit.world spooky @size 1920 1080 @output_texture 1 @enable 1 @floating 1 @erase_color 1"
 				}
 
 			}
@@ -2475,6 +2499,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-12", 0 ],
+					"source" : [ "obj-2", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-197", 1 ],
 					"order" : 0,
 					"source" : [ "obj-200", 0 ]
@@ -2850,6 +2881,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-2", 0 ],
+					"source" : [ "obj-36", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-10", 4 ],
 					"source" : [ "obj-40", 0 ]
 				}
@@ -3041,6 +3079,10 @@
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
+			}
+, 			{
+				"name" : "jit.gl.spoutsender.mxe64",
+				"type" : "mx64"
 			}
  ],
 		"autosave" : 0
