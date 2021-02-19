@@ -132,10 +132,10 @@ Continuer à faire le montage dans le grand studio. Je crois qu'il serait vraime
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
-
+Avancement de la musique d'ambiance
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Bass](medias/felix/journal_semaine_03.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -143,28 +143,32 @@ Continuer à faire le montage dans le grand studio. Je crois qu'il serait vraime
 - [ ] Complètement
 - [ ] Assez
 - [ ] Peu
-- [ ] Pas du tout
+- [ X ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai été malade en début de semaine. J'ai préféré rester à la maison pour des raisons évidente. Mes tâches ont considérablement été ralentis. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je prévois travailler de jour et de soir notre projet pour rattraper le temps perdu.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait
+- [ X ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+J'aurais aimé avancé plus la musique, mais j'ai eu plusieur problème de latence et ça m'a durement ralentis. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Règler le problème de latence le plus rapidement possible.
 
 ### Défis pour la prochaine semaine
+-Installer les haut-parleurs
+-Effectuer des testes de sons
+-Avancer la musique d'ambiance
+-Installer les spotlight
 
 ---
 ## Semaine 4 (20 au 26 février)
