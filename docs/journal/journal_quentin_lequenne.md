@@ -140,39 +140,49 @@ Charge de travail assez légère
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
-
+- Réalisation du HTML/CSS de l'interface simplifiée
+- Réalisation du JavaScript de l'interface simplifiée
+- Prise de renseignements sur la meilleure façon de diffuser les flux vidéos en ligne
+- Tests de diffusion en ligne
+- Rajout du son dans l'interface
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Interface en ligne](medias/quentin/realisation_semaine3.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Toutes les tâches prévues cette semaine ont été réalisées
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+/
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+/
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+/
 
 ### Défis pour la prochaine semaine
+- Rajout des détails HTML/CSS/JS
+- Rajout des media queries
+- Test avec une caméra au studio
+- Test avec les 4 caméras au studio
+- Installation de matériel pour l'installation
+- Prise de photos des membres d'équipe
 
 ---
 ## Semaine 4 (20 au 26 février)
