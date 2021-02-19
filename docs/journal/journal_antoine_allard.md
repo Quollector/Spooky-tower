@@ -158,38 +158,47 @@ Effectuer différents tests de projection, ainsi que s'entendre sur la position 
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
 
+- Implantation de la tour dans l'espace
+- Détermination de l'emplacement des projecteurs
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![tour et projecteurs](medias/antoine/tour_projo.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+Car l'installation des projecteurs a été plus longue que prévu et donc il reste quelques trucs à installer pour présenter le prototype.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Aujourd'hui, vendredi, nous continuons l'installation, ainsi que lundi où nous testerons aussi les équipements en envoyant des signaux
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Il n'y a pas de retard dans l'échéancier du projet, nous suivons tout de même bien notre roadmap.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
+
+- Envoyer des signaux pour tester tous les équipements
+- Commencer la conception de la tour
+- Présenter le prototype
 
 ---
 ## Semaine 4 (20 au 26 février)
