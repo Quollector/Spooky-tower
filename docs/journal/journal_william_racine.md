@@ -142,7 +142,10 @@ Nous avons fait plusieurs tests de placement durant les 3 derniers jours de la s
 ---
 ## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
-
+- Installation des projecteurs
+- Mise en place du prototype de l'expérience
+- Développement de la communication entre les projecteurs et Max avec Spout
+- Mise à journal du journal et du repository
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -151,19 +154,19 @@ Nous avons fait plusieurs tests de placement durant les 3 derniers jours de la s
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Nous nous sommes absenter quelques jours en raison de la santé d'un de nos coéquipiers
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Attendre son bon rétablissement
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -175,6 +178,9 @@ Nous avons fait plusieurs tests de placement durant les 3 derniers jours de la s
 
 
 ### Défis pour la prochaine semaine
+- Terminer le prototype de l'expérience
+- Terminer la projection avec Spout
+- Tester VBap
 
 ---
 ## Semaine 4 (20 au 26 février)
