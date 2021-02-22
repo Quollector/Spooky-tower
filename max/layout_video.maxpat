@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 41.0, 84.0, 1211.0, 1275.0 ],
+		"rect" : [ 34.0, 77.0, 2493.0, 1290.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -40,14 +40,37 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
-					"attr" : "preserve_aspect",
-					"id" : "obj-55",
+					"id" : "obj-69",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 794.43421459197998, 684.789470911026001, 97.0, 22.0 ],
+					"text" : "position $1 $2 -2"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"attr" : "position",
+					"id" : "obj-68",
 					"maxclass" : "attrui",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 952.43421459197998, 702.944910287857056, 174.0, 22.0 ],
-					"text_width" : 129.0
+					"patching_rect" : [ 929.5, 720.299999999999955, 237.43421459197998, 22.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-65",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 2,
+					"outlettype" : [ "jit_matrix", "" ],
+					"patching_rect" : [ 914.43421459197998, 770.0, 304.0, 22.0 ],
+					"text" : "jit.gl.videoplane spooky-test @scale 1.065 1 1 @layer 2"
 				}
 
 			}
@@ -101,13 +124,14 @@
 			}
 , 			{
 				"box" : 				{
-					"clipheight" : 41.557692050933838,
+					"clipheight" : 33.046153640747072,
 					"data" : 					{
 						"clips" : [ 							{
 								"absolutepath" : "cycle_course.mp4",
 								"filename" : "cycle_course.mp4",
 								"filekind" : "moviefile",
 								"id" : "u166001782",
+								"selection" : [ 0.0, 1.0 ],
 								"loop" : 1,
 								"content_state" : 								{
 									"loop" : 1,
@@ -151,6 +175,17 @@
 								}
 
 							}
+, 							{
+								"absolutepath" : "cycle_course_test.mp4",
+								"filename" : "cycle_course_test.mp4",
+								"filekind" : "moviefile",
+								"id" : "u313002048",
+								"loop" : 1,
+								"content_state" : 								{
+									"loop" : 1
+								}
+
+							}
  ]
 					}
 ,
@@ -163,19 +198,7 @@
 					"outlettype" : [ "jit_gl_texture", "", "dictionary" ],
 					"output_texture" : 1,
 					"parameter_enable" : 0,
-					"patching_rect" : [ 914.43421459197998, 509.714142084121704, 527.23078727722168, 170.230768203735352 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-20",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 2,
-					"outlettype" : [ "jit_matrix", "" ],
-					"patching_rect" : [ 914.43421459197998, 754.425285816192627, 326.0, 22.0 ],
-					"text" : "jit.gl.videoplane spooky @scale 0.3 0.3 1 @position $1 $2 1"
+					"patching_rect" : [ 927.43421459197998, 523.714142084121704, 527.23078727722168, 170.230768203735352 ]
 				}
 
 			}
@@ -198,8 +221,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 115.68421459197998, 726.444910287857056, 298.0, 22.0 ],
-					"text" : "jit.gl.spoutsender spooky @sendername spooky-spout"
+					"patching_rect" : [ 115.68421459197998, 726.444910287857056, 344.0, 22.0 ],
+					"text" : "jit.gl.spoutsender spooky-test @sendername spooky-spout-test"
 				}
 
 			}
@@ -223,7 +246,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 868.68421459197998, 1294.680830001831055, 50.0, 22.0 ],
-					"text" : "4 1 5 3"
+					"text" : "4 2 5 3"
 				}
 
 			}
@@ -424,7 +447,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 524.649751901626587, 1197.904809951782227, 29.5, 22.0 ],
-					"text" : "1"
+					"text" : "2"
 				}
 
 			}
@@ -583,7 +606,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 153.461000680923462, 987.404809951782227, 18.0, 66.0 ],
 					"size" : 4,
-					"value" : 2
+					"value" : 0
 				}
 
 			}
@@ -655,7 +678,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 153.461000680923462, 873.904809951782227, 50.0, 22.0 ],
-					"text" : "1"
+					"text" : "2"
 				}
 
 			}
@@ -868,7 +891,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 936.18421459197998, 1404.904809951782227, 50.0, 22.0 ],
-					"text" : "1"
+					"text" : "2"
 				}
 
 			}
@@ -1267,7 +1290,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1050.93421459197998, 997.904809951782227, 50.0, 22.0 ],
-					"text" : "1 3"
+					"text" : "2 1"
 				}
 
 			}
@@ -1486,7 +1509,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 719.93421459197998, 387.944910287857056, 50.0, 22.0 ],
-					"text" : "2000."
+					"text" : "0."
 				}
 
 			}
@@ -1980,8 +2003,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_matrix", "" ],
-					"patching_rect" : [ 67.18421459197998, 380.4210524559021, 294.0, 22.0 ],
-					"text" : "jit.gl.layer spooky @scale 0.3 0.3 1 @position $1 $2 1"
+					"patching_rect" : [ 67.18421459197998, 380.4210524559021, 318.0, 22.0 ],
+					"text" : "jit.gl.layer spooky-test @scale 0.3 0.3 1 @position $1 $2 1"
 				}
 
 			}
@@ -1992,8 +2015,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_matrix", "" ],
-					"patching_rect" : [ 115.68421459197998, 612.944910287857056, 197.0, 22.0 ],
-					"text" : "jit.gl.layer spooky @scale 1.065 1 1"
+					"patching_rect" : [ 115.68421459197998, 612.944910287857056, 272.0, 22.0 ],
+					"text" : "jit.gl.layer spooky-test @scale 1.065 1 1 @layer 0"
 				}
 
 			}
@@ -2004,8 +2027,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "jit_gl_texture", "bang", "" ],
-					"patching_rect" : [ 115.68421459197998, 684.789470911026001, 504.0, 22.0 ],
-					"text" : "jit.world spooky @size 1920 1080 @output_texture 1 @enable 1 @floating 1 @erase_color 1"
+					"patching_rect" : [ 115.68421459197998, 684.789470911026001, 557.0, 22.0 ],
+					"text" : "jit.world spooky-test @size 1920 1080 @output_texture 1 @enable 1 @floating 1 @erase_color 1 1 1 1"
 				}
 
 			}
@@ -2714,7 +2737,16 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-69", 0 ],
+					"order" : 0,
+					"source" : [ "obj-208", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-8", 0 ],
+					"order" : 1,
 					"source" : [ "obj-208", 0 ]
 				}
 
@@ -2805,7 +2837,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-20", 0 ],
+					"destination" : [ "obj-65", 0 ],
 					"source" : [ "obj-22", 0 ]
 				}
 
@@ -3141,15 +3173,22 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-20", 0 ],
-					"source" : [ "obj-55", 0 ]
+					"destination" : [ "obj-7", 0 ],
+					"source" : [ "obj-6", 0 ]
 				}
 
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-7", 0 ],
-					"source" : [ "obj-6", 0 ]
+					"destination" : [ "obj-65", 0 ],
+					"source" : [ "obj-68", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-65", 0 ],
+					"source" : [ "obj-69", 0 ]
 				}
 
 			}
@@ -3199,16 +3238,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-20", 0 ],
-					"order" : 0,
-					"source" : [ "obj-8", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-4", 0 ],
-					"order" : 1,
 					"source" : [ "obj-8", 0 ]
 				}
 
@@ -3290,6 +3320,13 @@
 				"name" : "cycle_montee.mp4",
 				"bootpath" : "E:/session_06/Spooky-tower/medias/videos/top",
 				"patcherrelativepath" : "../medias/videos/top",
+				"type" : "mpg4",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "cycle_course_test.mp4",
+				"bootpath" : "E:/session_06/Spooky-tower/medias/videos/course",
+				"patcherrelativepath" : "../medias/videos/course",
 				"type" : "mpg4",
 				"implicit" : 1
 			}
