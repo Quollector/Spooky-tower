@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 77.0, 2493.0, 1290.0 ],
+		"rect" : [ 41.0, 84.0, 1926.0, 1282.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -39,6 +39,42 @@
 		"subpatcher_template" : "",
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
+				"box" : 				{
+					"attr" : "floating",
+					"id" : "obj-34",
+					"maxclass" : "attrui",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 115.649751901626587, 652.0, 150.0, 22.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"attr" : "enable",
+					"id" : "obj-43",
+					"maxclass" : "attrui",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 929.5, 693.944910287857056, 150.0, 22.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-38",
+					"maxclass" : "button",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "bang" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 873.0, 772.0, 24.0, 24.0 ]
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-69",
 					"maxclass" : "message",
@@ -69,8 +105,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_matrix", "" ],
-					"patching_rect" : [ 914.43421459197998, 770.0, 304.0, 22.0 ],
-					"text" : "jit.gl.videoplane spooky-test @scale 1.065 1 1 @layer 2"
+					"patching_rect" : [ 914.43421459197998, 770.0, 253.0, 22.0 ],
+					"text" : "jit.gl.videoplane spooky-test @scale 1.065 1 1"
 				}
 
 			}
@@ -198,19 +234,7 @@
 					"outlettype" : [ "jit_gl_texture", "", "dictionary" ],
 					"output_texture" : 1,
 					"parameter_enable" : 0,
-					"patching_rect" : [ 927.43421459197998, 523.714142084121704, 527.23078727722168, 170.230768203735352 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-36",
-					"maxclass" : "toggle",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 35.987322092056274, 652.0, 21.012677907943726, 21.012677907943726 ]
+					"patching_rect" : [ 914.43421459197998, 515.82952618598938, 527.23078727722168, 170.230768203735352 ]
 				}
 
 			}
@@ -447,7 +471,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 524.649751901626587, 1197.904809951782227, 29.5, 22.0 ],
-					"text" : "2"
+					"text" : "1"
 				}
 
 			}
@@ -554,7 +578,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 447.649751901626587, 981.404809951782227, 50.0, 22.0 ],
-					"text" : "2 2"
+					"text" : "2 0"
 				}
 
 			}
@@ -606,7 +630,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 153.461000680923462, 987.404809951782227, 18.0, 66.0 ],
 					"size" : 4,
-					"value" : 0
+					"value" : 1
 				}
 
 			}
@@ -678,7 +702,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 153.461000680923462, 873.904809951782227, 50.0, 22.0 ],
-					"text" : "2"
+					"text" : "1"
 				}
 
 			}
@@ -1290,7 +1314,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1050.93421459197998, 997.904809951782227, 50.0, 22.0 ],
-					"text" : "2 1"
+					"text" : "1 0"
 				}
 
 			}
@@ -2027,8 +2051,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "jit_gl_texture", "bang", "" ],
-					"patching_rect" : [ 115.68421459197998, 684.789470911026001, 557.0, 22.0 ],
-					"text" : "jit.world spooky-test @size 1920 1080 @output_texture 1 @enable 1 @floating 1 @erase_color 1 1 1 1"
+					"patching_rect" : [ 115.68421459197998, 684.789470911026001, 493.0, 22.0 ],
+					"text" : "jit.world spooky-test @size 1920 1080 @output_texture 1 @enable 1 @erase_color 1 1 1 1"
 				}
 
 			}
@@ -3061,6 +3085,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-2", 0 ],
+					"source" : [ "obj-34", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-31", 0 ],
 					"source" : [ "obj-35", 0 ]
 				}
@@ -3068,8 +3099,8 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-2", 0 ],
-					"source" : [ "obj-36", 0 ]
+					"destination" : [ "obj-65", 0 ],
+					"source" : [ "obj-38", 0 ]
 				}
 
 			}
@@ -3091,6 +3122,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-242", 0 ],
 					"source" : [ "obj-42", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-65", 0 ],
+					"source" : [ "obj-43", 0 ]
 				}
 
 			}
@@ -3275,13 +3313,6 @@
 			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "grille_spooky_v2.png",
-				"bootpath" : "E:/session_06/Spooky-tower/images",
-				"patcherrelativepath" : "../images",
-				"type" : "PNG",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "logique.maxpat",
 				"bootpath" : "E:/session_06/Spooky-tower/max",
 				"patcherrelativepath" : ".",

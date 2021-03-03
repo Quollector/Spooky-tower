@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1314.0, 669.0, 811.0, 698.0 ],
+		"rect" : [ 880.0, 297.0, 811.0, 826.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -219,7 +219,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 44.0, 441.0, 50.0, 22.0 ],
-					"text" : "1 1 1 0"
+					"text" : "1 0 1 1"
 				}
 
 			}
@@ -327,7 +327,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 377.370356261730194, 678.740743339061737, 74.41899585723877, 62.0 ],
-					"text" : "0 = Nord\n1 = Sud\n2 = Est\n3 = Ouest"
+					"text" : "0 = Nord\n1 = Est\n2 =Sud\n3 = Ouest"
 				}
 
 			}
@@ -524,7 +524,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 221.138425083160428, 438.841809034347534, 123.0, 22.0 ],
-					"text" : "0 0 0 1"
+					"text" : "0 1 0 0"
 				}
 
 			}
@@ -556,7 +556,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 392.379165143966702, 261.5, 44.0, 20.0 ],
+					"patching_rect" : [ 392.379165143966702, 244.0, 44.0, 20.0 ],
 					"text" : "est"
 				}
 
@@ -567,7 +567,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 392.379165143966702, 239.5, 44.0, 20.0 ],
+					"patching_rect" : [ 392.379165143966702, 265.0, 44.0, 20.0 ],
 					"text" : "sud"
 				}
 
@@ -617,7 +617,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 121.263117194175607, 136.0, 44.0, 20.0 ],
-					"text" : "sud"
+					"text" : "est"
 				}
 
 			}
@@ -628,7 +628,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 190.157851099967957, 136.0, 44.0, 20.0 ],
-					"text" : "est"
+					"text" : "sud"
 				}
 
 			}
