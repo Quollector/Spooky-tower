@@ -173,39 +173,48 @@ Règler le problème de latence le plus rapidement possible.
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
-
+-Nous avons présenté le protype 1
+-Nous avons commencé à faire des testes de sons
+-Enrgistrement de la musique d'ambiance qui était à refaire.
+-Installation des spotlights
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![micro](medias/felix/journal_semaine_04.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [ X ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+Oui, nous avons même fait plus que prévue. Un progrès qui a été le plus important est d'avoir règler le problème de latence avec ma carte de son avec Daryl. Ça m'a vraiment aidé à enregistrer de façon approprié. J'ai donc vraiment bien avancé la musique d'ambiance et j'en suis content. 
  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [ X ] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+-Installer les haut-parleurs
+-Avoir fini la musique d'ambiance
+-Effectuer les testes de sons avec les speakers
+-Installer les pôles de support
+
 
 ---
 ## Semaine de rattrapage (27 février au 5 mars)

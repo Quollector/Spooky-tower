@@ -187,39 +187,46 @@ Toutes les tâches prévues cette semaine ont été réalisées
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
-
+- Rajout des détails HTML/CSS/JS
+- Test avec une caméra au studio
+- Test de diffusion en ligne
+- Installation de matériel pour l'installation
+- Prise de photos des membres d'équipe
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Diffusion en ligne](medias/quentin/realisation_semaine4.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Il manque deux éléments: les queries, mais il fallait que je termine les détails de l'interface avant de les commencer, et le test avec 4 caméras pour lequel il manque du matériel.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Réaliser les queries cette semaine, faire le test dès que le matériel est complet
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Voir points précédents.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Voir points précédents.
 
 ### Défis pour la prochaine semaine
+- Réalisation des medias queries de l'interface
+- Installation des caméras au studio
+- Trouver une solution pour réduire le délai de la diffusion
 
 ---
 ## Semaine de rattrapage (27 février au 5 mars)

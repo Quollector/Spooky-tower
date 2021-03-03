@@ -185,28 +185,31 @@ Attendre son bon rétablissement
 ---
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
-
+- Finir prototype
+- Réalisation d'une projection vidéo sur la surface de projection
+- Création du module de contrôle des lumières
+- Installation du module de détection (Kinect) ainsi que son module de contrôle (Rasberry)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![prototype du max (Projection vidéo et de mouvement, contrôle des lumières, logique)](medias/william/proto_01.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai été capable de compléter la projection de vidéo sur la surface de projection, ce qui est une étape plus avancé que ce que je voulais à la base. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -218,6 +221,8 @@ Attendre son bon rétablissement
 
 
 ### Défis pour la prochaine semaine
+- Installer le matériel de soutien pour les caméras de diffusion en direct
+- Instaler le matériel de soutien pour les haut-parleurs
 
 ---
 ## Semaine de rattrapage (27 février au 5 mars)

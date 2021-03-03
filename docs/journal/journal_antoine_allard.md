@@ -118,7 +118,7 @@ Avoir fini la préproduction pour mardi et prendre possession d'une partie de no
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![quentin le travaillant](medias/antoine/test_lumiere.jpg)
+![Tests de lumières](medias/antoine/test_lumiere.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -204,20 +204,24 @@ Il n'y a pas de retard dans l'échéancier du projet, nous suivons tout de même
 ## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
 
+- Tests de spots de lumière
+- Tests des hauts-parleurs divoom
+- Présentation prototype 01
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![tour et projecteurs](medias/antoine/plan_coupe_tour.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+
+Notre prototype 01 était relativement assez complet, surtout du fait que du mapping était fait sur notre tour test.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -225,17 +229,22 @@ Il n'y a pas de retard dans l'échéancier du projet, nous suivons tout de même
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Le manque d'équipement nous ralentit un peu, car on ne veut pas se lancer dans des choses sans faire de tests et devoir démonter plusieurs fois comme pour les lumières et les projecteurs.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Installer quand même des équipements pour accrochage et tester avec d'autres équipements en attendant de recevoir ce qu'il faut.
 
 ### Défis pour la prochaine semaine
+
+- Avoir une tour quasiment sinon complètement finie
+- Avoir installer les systèmes d'accrochage pour les hauts-parleurs et caméras
 
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
