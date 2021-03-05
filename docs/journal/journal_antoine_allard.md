@@ -250,39 +250,47 @@ Installer quand même des équipements pour accrochage et tester avec d'autres �
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
 
+- Plan de coupe
+- Achat des matériaux
+- Construction de celle-ci
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![tour](medias/antoine/tour_test.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+
+Parce que l'acquisition des matériaux à bien été et la tour avance bien et sera prête pour la semaine prochaine
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Pas vraiment un écart, mais les matériaux cheap et mon manque d'outillage a compliqué la tâche un peu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
 
+- Monter la tour dans le studio et faire les touch-up
+- Test de fumée le 09
+- Continuer logique et tester les nouveaux équipements
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées

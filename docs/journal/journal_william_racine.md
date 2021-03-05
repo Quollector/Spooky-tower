@@ -227,28 +227,32 @@ J'ai été capable de compléter la projection de vidéo sur la surface de proje
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
-
+- Combiner plusieurs fichiers Max en un
+- Organiser le Max en bloc
+- Réorganiser le fichier pour la matrice
+- Faire fonctionner la détection, envoyer les données dans Max et faire interagir la logique
+- Installer le matériel de soutien pour les caméras de diffusion en direct
+- Faire la spacialisation du son avec Max
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![organisation du max (par module)](medias/william/organisation_max.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai grandement avancé dans le Max et nous avons réussi à faire fonctionner les haut-parleurs Divoom avec VBap
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -260,6 +264,8 @@ J'ai été capable de compléter la projection de vidéo sur la surface de proje
 
 
 ### Défis pour la prochaine semaine
+- Terminer d'installer le matériel
+- Avancer le plus possible dans la projection avec la tour terminée
 
 ---
 ## Semaine 5 (6 au 12 mars)

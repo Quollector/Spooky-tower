@@ -231,40 +231,44 @@ Voir points précédents.
 ---
 ## Semaine de rattrapage (27 février au 5 mars)
 ### Résumé des réalisations effectuées
-
-
+- Réalisation des medias queries de l'interface (mobile)
+- Installation des caméras au studio
+- Migration de l'interface vers Wordpress (local)
+- Réalisation des éléments pour le site Pandèmes (vignette, bannière)
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Vignette](medias/quentin/realisation_semaine5.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Test des 4 caméras en même temps impossible à cause du matériel manquant, donc impossible de vérifier le délai de diffusion des 4 flux.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Le matériel serait arrivé aujourd'hui (jeudi 5 mars), il sera installé et les tests seront faits courant du début de semaine prochaine. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Quelques queries manquantes et les tests caméra ne sont pas faits
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Terminer les queries et faire les tests caméra
 
 ### Défis pour la prochaine semaine
-
+- Réaliser les queries (fin)
+- Mettre le wordpress en ligne
+- Test d'une diffusion en ligne avec les 4 flux de caméra
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
