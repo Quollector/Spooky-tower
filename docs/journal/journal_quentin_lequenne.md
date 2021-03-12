@@ -272,7 +272,10 @@ Terminer les queries et faire les tests caméra
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
-
+- Queries tablette
+- Installation des 4 caméras
+- Test des 4 caméras en même temps dans OBS
+- Correction des bugs liés à la migration vers Wordpress
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -281,31 +284,33 @@ Terminer les queries et faire les tests caméra
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Le test de diffusion en ligne et la query laptop manquent
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Terminer la query ce weekend et tester les caméras lundi
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Le test de diffusion manque, c'est le dernier élément relié au matériel physique, le reste est de la finition sur l'interface
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Réaliser le test lundi
 
 ### Défis pour la prochaine semaine
-
+- Test de diffusion en ligne des 4 caméras 
+- Finitions sur l'interface
+- Aide aux autres facettes du projet si besoin
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
