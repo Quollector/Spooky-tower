@@ -265,39 +265,41 @@ N/A
 ---
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
-
+-Installer les haut-parleurs
+-Effectuer les testes de sons avec les speakers
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![genelec](medias/felix/journal_semaine_06.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [ X ] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Tout ce qui concerne l'installation et les testes de sons sont terminé! C'est une très bonne nouvelles. Je vais pouvoir continuer à aider mon équipe.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [ X ] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+Aider mon équipe avec le reste des testes à faire (principalement de diffussion et de projection).
 
 ---
 ## Semaine 6 (13 au 19 mars)
