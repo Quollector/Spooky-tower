@@ -33,7 +33,7 @@ Un personnage est présent sur une face d'une tour à cinq faces. Il est effray�
 Le public est invité à se positionner devant chacune des faces pour faire fuir le personnage vers le dessus de la tour.
 
 ## Intention de départ
-Par ce projet, nous souhaitons mettre l'accent sur l'anxiété et le stress de certains individus face aux foules. Il s'agit d'un regard sur la face opposé du confinement où beaucoup ne se sentent pas à l'aise d'être seuls chez eux. Exactement comme certains ne se sentent pas à l'aise quand ils sont à l'extérieur avec d'autres gens.
+Par ce projet, nous souhaitons mettre l'accent sur l'anxiété et le stress de certains individus face aux foules. Il s'agit d'un regard sur la face opposée du confinement où beaucoup ne se sentent pas à l'aise d'être seuls chez eux. Exactement comme certains ne se sentent pas à l'aise quand ils sont à l'extérieur avec d'autres gens.
 
 ## Tableau d'ambiance (*moodboard*)
 ![moodboard](medias/MoodBoard_Spooky_Tower.png)
