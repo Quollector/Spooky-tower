@@ -311,21 +311,24 @@ Tout le matériel est installé et j'ai pu travailler sur la projection sur la t
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
-
+- Finir la logique du projet
+- Préparation de la générale
+- Intégration des vidéos finales
+- Intégration de la spatialisation du son ainsi que de la musique d'ambiance
+- Enchaînement des vidéos
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![présentation finale](medias/william/DSC00004.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai passé plusieurs heures ces derniers jours et je suis heureux d'avoir pu régler les problèmes avant la présentation de la pratique générale.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -333,14 +336,16 @@ Tout le matériel est installé et j'ai pu travailler sur la projection sur la t
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il y a seulement l'enchaînement de vidéos que je dois réviser suite à la pratique générale.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
+- Faire un lancement fonctionnel constant pour 3 à 5 jours
+- Réaliser la diffusion finale jeudi le 25 mars
