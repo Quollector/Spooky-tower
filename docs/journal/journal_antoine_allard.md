@@ -295,27 +295,31 @@ Pas vraiment un écart, mais les matériaux cheap et mon manque d'outillage a co
 ## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
 
+- Montage de la tour dans le studio
+- Dernières touches de finition
+- Placements des divoom à l'intérieur
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![plâtre](medias/antoine/platre.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+La tour n'est pas aussi propre que je l'aurais souhaité, avoir eu plus de budget, nous aurions du prendre du gypse au lieu du contreplaqué.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -327,19 +331,24 @@ Pas vraiment un écart, mais les matériaux cheap et mon manque d'outillage a co
 
 
 ### Défis pour la prochaine semaine
-
+- Finaliser le projet en entier
+- Effectuer la générale
+- Apprendre mon texte de présentation
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
 
+- Placement des caméras pour la diffusion
+- Dernières touches sur la tour
+- Tests de l'expérience
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![La tour spooky](medias/antoine/tour_finale.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -347,12 +356,13 @@ Pas vraiment un écart, mais les matériaux cheap et mon manque d'outillage a co
 #### Décrivez pourquoi.
  
 
+
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -364,3 +374,5 @@ Pas vraiment un écart, mais les matériaux cheap et mon manque d'outillage a co
 
 
 ### Défis pour la prochaine semaine
+- Présentation finale
+- Démontage
