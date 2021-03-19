@@ -304,7 +304,9 @@ Aider mon équipe avec le reste des testes à faire (principalement de diffussio
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
-
+-Faire un teste complet du projet pour la géréral
+-Faire la général
+-Réajuster les choses aux besoins
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -315,27 +317,26 @@ Aider mon équipe avec le reste des testes à faire (principalement de diffussio
 - [ ] Complètement
 - [ ] Assez
 - [ ] Peu
-- [ ] Pas du tout
+- [ X ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Pour plusieurs raison médical, je n'ai pas pu me rendre au collège du tout.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+La semaine prochaine, je serai près et dispo à me rendre au collège s'il y a un bug. Par contre, ça va encore dépendre de si la santé me le permet.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait
+- [ X ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+J'avais prévu aider mon équipe puisque les tâches qui m'étaient assigné était fini. Par contre, je n'ai pas été présent du tout pour mon équipe.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
-Teste
+Présenter le projet final.
