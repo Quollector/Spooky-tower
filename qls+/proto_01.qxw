@@ -11,7 +11,7 @@
    <Universe Name="Universe 1" ID="0">
     <Input Plugin="OSC" Line="0"/>
     <Output Plugin="DMX USB" Line="0">
-     <PluginParameters UniverseChannels="4"/>
+     <PluginParameters UniverseChannels="5"/>
     </Output>
    </Universe>
    <Universe Name="Universe 2" ID="1"/>
@@ -79,7 +79,7 @@
     </Appearance>
     <Input Universe="0" Channel="43779"/>
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None" Monitor="false">Level</SliderMode>
-    <Level LowLimit="0" HighLimit="255" Value="64">
+    <Level LowLimit="0" HighLimit="255" Value="255">
      <Channel Fixture="1">0</Channel>
     </Level>
     <Playback>
@@ -97,7 +97,7 @@
     </Appearance>
     <Input Universe="0" Channel="39320"/>
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None" Monitor="false">Level</SliderMode>
-    <Level LowLimit="0" HighLimit="255" Value="52">
+    <Level LowLimit="0" HighLimit="255" Value="255">
      <Channel Fixture="2">0</Channel>
     </Level>
     <Playback>
@@ -115,7 +115,7 @@
     </Appearance>
     <Input Universe="0" Channel="34833"/>
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None" Monitor="false">Level</SliderMode>
-    <Level LowLimit="0" HighLimit="255" Value="46">
+    <Level LowLimit="0" HighLimit="255" Value="255">
      <Channel Fixture="3">0</Channel>
     </Level>
     <Playback>
@@ -133,7 +133,7 @@
     </Appearance>
     <Input Universe="0" Channel="64686"/>
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None" Monitor="false">Level</SliderMode>
-    <Level LowLimit="0" HighLimit="255" Value="47">
+    <Level LowLimit="0" HighLimit="255" Value="255">
      <Channel Fixture="0">0</Channel>
     </Level>
     <Playback>
