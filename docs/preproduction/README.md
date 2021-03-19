@@ -33,7 +33,7 @@ Un personnage est présent sur une face d'une tour à cinq faces. Il est effray�
 Le public est invité à se positionner devant chacune des faces pour faire fuir le personnage vers le dessus de la tour.
 
 ## Intention de départ
-Par ce projet, nous souhaitons mettre l'accent sur l'anxiété et le stress de certains individus face aux foules. Il s'agit d'un regard sur la face opposée du confinement où beaucoup ne se sentent pas à l'aise d'être seuls chez eux. Exactement comme certains ne se sentent pas à l'aise quand ils sont à l'extérieur avec d'autres gens.
+Par ce projet, nous souhaitons mettre l'accent sur l'anxiété et le stress de certaines personnes face aux foules. Il s'agit d'un regard sur la face opposée du confinement où beaucoup ne se sentent pas à l'aise d'être seuls chez eux. Exactement comme certains ne se sentent pas à l'aise quand ils sont à l'extérieur avec d'autres gens.
 
 ## Tableau d'ambiance (*moodboard*)
 ![moodboard](medias/MoodBoard_Spooky_Tower.png)
@@ -208,7 +208,7 @@ https://github.com/Quollector/Spooky-tower/milestones
 - Pratique générale : 18 mars (17h à 22h)
 - Pratique générale : 19 mars (toute la journée)
 - Début de la diffusion : lundi 22 mars
-- Présentation des projets devant public : jeudi 25 mars (soir)
+- Présentation des projets devant public : jeudi 25 mars (19h)
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
