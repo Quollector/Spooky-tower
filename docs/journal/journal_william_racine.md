@@ -318,7 +318,7 @@ Tout le matériel est installé et j'ai pu travailler sur la projection sur la t
 - Enchaînement des vidéos
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![présentation finale](medias/william/DSC00004.JPG)
+![présentation finale](medias/william/tour.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
