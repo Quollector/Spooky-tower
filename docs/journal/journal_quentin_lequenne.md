@@ -314,36 +314,40 @@ Réaliser le test lundi
 ---
 ## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
-
+- Test de diffusion en ligne des 4 caméras 
+- Finitions sur l'interface
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![Interface](medias/quentin/realisation_semaine6.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Bonne gestion du temps, aide des équipiers pour le test de diffusion 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+/
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+/
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+/
 
 ### Défis pour la prochaine semaine
+/
