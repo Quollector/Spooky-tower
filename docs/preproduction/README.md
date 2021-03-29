@@ -85,31 +85,38 @@ Tour blanche
 * Audio
     * 4 Haut-parleurs bluetooth DIVOOM AIRBEAT-10
     * 4 Hauts-parleurs Genelec 8010 8"
-    * 1 Carte de son Berhinger U-Phoria 8 in 8 out
+    * 1 Carte de son Berhinger U-Phoria 4 in 4 out
+    * 1 Casques d'écoute - Sennheiser HD 280 Pro
+    * 2 Direct Input Box
+    
 
 * Vidéo
     * 2 Projecteur standard, ratio 1.5, 3500 lumens
     * 1 Kinect V1
     * 4 Caméra - Sony A6000
+    * 4 Adaptateur Sony ACPW20 pour série a7, a6500 et a6000
+    * 4 Carte de capture HDMI
 
 * Lumière
-    * 4 Chauvet slimPAR Pro USB
-    * 1 Chauvet Obey 40 - Controlleur DMX
+    * 4 Chauvet DJ EVE E-100Z 100W Warm White Ellipsoidal Spot
 
 * Câbles
-    * 8 câble XLR 25'
-    * 5 câble ethernet 25'
-    * 1 Usb vers xlr
+    * 1 Câble XLR 25'
     * 6 Extenders HDMI
     * 4 Adaptateur 1/8 femelle trs vers 1/4 male trs
-    * 4 câble 1/8 6'
+    * 1 Transformateur DMX USB vers XLR
+    * 4 Câble HDMI 3 pieds
+    * 4 DisplayPort to HDMI
+    * 4 Câbles HMDI à micro HDMI
+    * 2 Splitter stereo
+    * 2 Splitter Jack
 
 * Électricité
-    * 2 multiprises
-    * 2 extensions 25'
+    * 3 Multiprises
+    * 4 Extension électrique
 
 * Réseau
-    * 2 câble ethernet 25'
+    * 7 câble ethernet 25'
 
 * Ordinateur
     * 1 Desktop chariot mobile
@@ -118,12 +125,12 @@ Tour blanche
     * OBS
     
 * Autre
-    * 1 Machine à fumée
     * 2 Système d'accrochage pour projecteurs
     * 4 Cheezboro pour haut-parleurs genelec
-    * 14 Câble de sécurité
-    * 8 Système de fixation extensible 5' à 10'
+    * 16 Câble de sécurité
+    * 4 Système de fixation extensible 5' à 10'
     * 2 Tige accrochage 3'
+    * 4 Superclamp Manfrotto 035 - Bras Manfrotto 244 avec braquette pour caméra - Magic Arm
 
 
 ## Logiciels requis
